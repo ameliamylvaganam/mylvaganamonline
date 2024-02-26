@@ -10,9 +10,9 @@ let about = [
     blurb:
       "Mylvaganam is a filmmaker and coder interested in slow cinema, queer intimacies, and experimental media. She holds a B.A. in Radio/Television/Film and Computer Science from Northwestern University, and currently works in the production studio at the National Gallery of Art in Washington, DC. She likes herself best when she’s passionate.",
     contact:
-      "<br><a href='mailto:mylvaganamamelia@gmail.com'>email</a> <a target=_blank href='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/2024%20Mylvaganam%20resume.pdf?v=1708930959832'>resume</a> <a href='https://instagram.com/myylvaganam' target='_blank'>instagram</a>",
+      "<br><a href='mailto:mylvaganamamelia@gmail.com'>mylvaganamamelia@gmail.com</a>&nbsp;&nbsp;&nbsp;&nbsp;<a target=_blank href='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/2024%20Mylvaganam%20resume.pdf?v=1708930959832'>resume</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://instagram.com/myylvaganam' target='_blank'>instagram</a>",
     footer:
-      "<br><section id=aboutfooter>ps: this site is hand-coded with html, css, a little bit of javascript, and lots of love</section>",
+      "<br><section id=aboutfooter>ps: this site is hand-coded with javascript, html, a little css, and lots of love</section>",
   },
 ];
 
@@ -112,7 +112,7 @@ let projects = [
     centeralign:
       "A woman finds a mysterious video discussing the female eating habits of a dystopian society.",
     leftalign:
-      "writer/director <b>Erin Zhang</b><br>producers <b>Tanisha Tekriwal</b> and <b>Sofia Veraza</b><br>cinematography <b>Mylvaganam</b> and <b>Haoshu Sascha Deng</b>, gaffer <b>Tej Narayanan</b><br><br>4K color: stopmotion<br>short film<br>2022",
+      "writer/director <b>Erin Zhang</b><br>producers <b>Tanisha Tekriwal</b> and <b>Sofia Veraza</b><br>cinematography <b>Mylvaganam</b> and <b>Haoshu Sascha Deng</b>, gaffer <b>Tej Narayanan</b><br><br>4K color, stopmotion<br>short film<br>2022",
     centeragain:
       "Atlanta Film Festival 2023<br><a href ='https://dailynorthwestern.com/2022/05/24/ae/shelf-life-goes-small-scale-for-the-big-screen-student-produced-film-uses-stop-motion-to-fit-its-set-on-pool-table/' target='_blank'>Daily Northwestern article</a>",
     images: [],
@@ -215,7 +215,7 @@ let projects = [
     centeralign:
       "<a href='https://dearjournal.glitch.me' target=_blank>click here for the site</a>",
     leftalign:
-      "<i>Dear journal,</i> is a continuous collection of people sharing their journal entries of varying forms. On each load, you are presented with a random clip and its associated color. I made it in hopes of providing moments of connection in a very isolating time. Hearing someone's voice is an intimate thing. There is also a catalog page, if you wish to be the master of your own navigation. It's a live project that continues to grow. Submit a clip to be added <a href='https://forms.gle/9yHF4ZmSEyF32ji56' target=_blank>here</a>.<br><br>webpage<br>2021",
+      "<i>Dear journal,</i> is an ongoing collection of people sharing their journal entries of varying forms. On each load, you are presented with a random clip and its associated color. I made it in hopes of providing moments of connection in a very isolating time. Hearing someone's voice is an intimate thing. There is also a catalog page, if you wish to be the master of your own navigation. It's a live project that continues to grow. Submit a clip to be added <a href='https://forms.gle/9yHF4ZmSEyF32ji56' target=_blank>here</a>.<br><br>webpage<br>2021",
     centeragain: "",
     images: [
       "<img loading='lazy' src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/journal1.png?v=1708915471810' alt='screenshot from dear journal, site'>",
