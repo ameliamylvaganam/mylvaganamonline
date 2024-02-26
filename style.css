@@ -1,0 +1,126 @@
+
+a:link,
+a:visited {
+  color: hsl(60, 95%, 75%);
+}
+a:hover {
+  color: hsl(60, 95%, 95%);
+}
+img{
+  pointer-events: none;
+}
+body {
+  background: hsl(130, 40%, 60%);
+  color: hsl(10, 80%, 40%);
+  font-family: sans-serif;
+  font-size: 14px;
+  letter-spacing: 0em;
+  line-height: 2em;
+
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+  /*   width: 100vw; */
+
+  text-align: justify;
+}
+
+#mybody {
+  padding-left: 15vw;
+  padding-right: 15vw;
+}
+
+marquee{
+  background: #e8e541;
+  color: #d12000;
+}
+
+.navline1,
+.navline2 {
+  font-size: 15px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav-link {
+  display: inline-block;
+  position: relative;
+  /*     font-style: italic; */
+}
+
+.textblock {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+  width: 70vw;
+  text-align: justify;
+}
+
+.textblock div {
+  display: none;
+}
+
+.textblock div:target {
+  display: block;
+}
+
+#footer {
+  font-size: 80%;
+  position: absolute;
+  bottom: 0;
+  height: 2rem;
+  font-style: italic;
+}
+
+#footer-wrap {
+  padding-bottom: 2rem;
+}
+
+.titles {
+  font-style: italic;
+  font-weight: bold;
+}
+
+.subtitles {
+  font-style: italic;
+  /*   font-weight: bold; */
+}
+
+.projheading {
+  /*   color: hsl(240, 90%, 50%); */
+  color: hsl(60, 95%, 95%);
+  font-family: "Times New Roman", serif;
+  font-size: 18px;
+  letter-spacing: 2px;
+  text-align: center;
+}
+
+.projbody {
+  color: hsl(10, 80%, 40%);
+  font-family: sans-serif;
+  font-size: 12px;
+  letter-spacing: 1px;
+  text-align: center;
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70vw;
+}
+
+.projbody img {
+  width: 49%;
+  height: auto;
+  margin: 0.5%;
+}
+video{
+  width: 49%;
+}
+
+.embedded{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
