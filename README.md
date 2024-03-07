@@ -1,10 +1,5 @@
-new portfolio for filmmaker/coder Mylvaganam
+new portfolio for filmmaker/cinematographer/coder Mylvaganam
 mylvaganam.online
-
-pre-release:
-!!edit url on instagram bios
-!!make licecaps (convert to mp4s) of interacting with the site, including leaving a birthday note (is this embarrassing tho...)
-!!one last push cuz i did change a couple things already
 
 features to add:
 

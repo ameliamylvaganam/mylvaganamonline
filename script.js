@@ -8,9 +8,9 @@ let about = [
     image:
       "<img src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/meid.jpg?v=1707518188987' alt='me' width='105.4' height='141.6'/><br><br>",
     blurb:
-      "Mylvaganam is a filmmaker, cinematographer, and media artist interested in slow cinema, queer intimacies, and experimental media. She holds a B.A. in Radio/Television/Film and Computer Science from Northwestern University, and currently works in the production studio at the National Gallery of Art in Washington, DC. She likes herself best when she’s passionate.",
+      "Mylvaganam is a filmmaker, cinematographer, and coder interested in slow cinema, queer intimacies, and experimental media. She holds a B.A. in Radio/Television/Film and Computer Science from Northwestern University, and currently works in the production studio at the National Gallery of Art in Washington, DC. She likes herself best when she’s passionate.",
     contact:
-      "<br><a href='mailto:mylvaganamamelia@gmail.com'>mylvaganamamelia@gmail.com</a>&nbsp;&nbsp;&nbsp;&nbsp;<a target=_blank href='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/2024%20Mylvaganam%20resume%20030124.pdf?v=1709272711650'>resume</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://instagram.com/myylvaganam' target='_blank'>instagram</a>",
+      "<br><a href='mailto:mylvaganamamelia@gmail.com'>mylvaganamamelia@gmail.com</a>&nbsp;&nbsp;&nbsp;&nbsp;<a target=_blank href='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/2024%20Mylvaganam%20resume%20030624.pdf?v=1709777248825'>resume</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://instagram.com/myylvaganam' target='_blank'>instagram</a>",
     footer:
       "<br><section id=aboutfooter>ps: this site is hand-coded with javascript, html, a little css, and lots of love</section>",
   },
