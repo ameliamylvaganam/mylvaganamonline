@@ -8,11 +8,11 @@ let about = [
     image:
       "<img src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/meid.jpg?v=1707518188987' alt='me' width='105.4' height='141.6'/><br><br>",
     blurb:
-      "Mylvaganam is interested in slow cinema, queer intimacies, experimental media, and many other things. She holds a B.A. in Radio/Television/Film and Computer Science from Northwestern University and currently works in the production studio at the National Gallery of Art in Washington, DC. She likes herself best when she’s passionate.",
+      "Mylvaganam is interested in slow cinema, queer intimacies, and experimental media. Being of mixed Chinoy and Sri Lankan Tamil descent, her work has always existed in a middle ground: between analog and digital mediums, between creative and technical disciplines, between past and present temporalities.<br><br>She holds a B.A. in Radio/Television/Film and Computer Science from Northwestern University and currently works in the production studio at the National Gallery of Art in Washington, DC. She likes herself best when she’s passionate.",
     contact:
       "<br><a href='mailto:mylvaganamamelia@gmail.com'>mylvaganamamelia@gmail.com</a>&nbsp;&nbsp;&nbsp;&nbsp;<a target=_blank href='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/Mylvaganam%20resume%20031524%20site.pdf?v=1710521422511'>resume</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://instagram.com/myylvaganam' target='_blank'>instagram</a>",
     footer:
-      "<br><section id=aboutfooter>ps: this site is hand-coded with javascript, html, a little css, and lots of love</section>",
+      "<br><br><section id=aboutfooter>ps: this site is hand-coded with javascript, html, a little css, and lots of love</section>",
   },
 ];
 
@@ -42,7 +42,7 @@ let projects = [
       "Flicker* study of shattering glass, pooling liquid, and simultaneous intimacies.<br>(cut from footage shot for <a href='#dreamlogic'><i>Dreamlogic</i></a>)<br>*photosensitive viewers proceed with caution",
     leftalign:
       "director/editor <b>Mylvaganam</b><br>production <b>Dreamlogic team</b><br><br>16mm color<br>2024<br>87sec",
-    centeragain: "",
+    centeragain: "Winnipeg Underground Film Festival 2024",
     images: [
       "<img loading='lazy' src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/inremembrance1.jpg?v=1707635511975' alt='still from In Remembrance of a Bottle'>",
       "<img loading='lazy' src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/inremembrance2.jpg?v=1707635512333' alt='still from In Remembrance of a Bottle'>",
@@ -114,7 +114,7 @@ let projects = [
     leftalign:
       "writer/director <b>Erin Zhang</b><br>producers <b>Tanisha Tekriwal</b> and <b>Sofia Veraza</b><br>cinematography <b>Mylvaganam</b> and <b>Haoshu Sascha Deng</b>, gaffer <b>Tej Narayanan</b><br><br>4K color, stopmotion<br>short film<br>2022",
     centeragain:
-      "Atlanta Film Festival 2023<br><a href ='https://dailynorthwestern.com/2022/05/24/ae/shelf-life-goes-small-scale-for-the-big-screen-student-produced-film-uses-stop-motion-to-fit-its-set-on-pool-table/' target='_blank'>Daily Northwestern article</a>",
+      "<a href='https://www.atlantafilmfestival.com/film-guide-2023' target='_blank'>Atlanta Film Festival 2023</a><br><a href ='https://dailynorthwestern.com/2022/05/24/ae/shelf-life-goes-small-scale-for-the-big-screen-student-produced-film-uses-stop-motion-to-fit-its-set-on-pool-table/' target='_blank'>Daily Northwestern article</a>",
     images: [],
     embedcode:
       "<video controls controlslist=nodownload><source src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/woman%203%20take%202%20(1).mp4?v=1708705578182' type='video/mp4' /></video>",
@@ -154,8 +154,7 @@ let projects = [
   {
     name: "Daffodils",
     username: "daffodils",
-    centeralign:
-      "Triptych of the filmmaker's most intimate relationships.",
+    centeralign: "Triptych of the filmmaker's most intimate relationships.",
     leftalign:
       "made by <b>Mylvaganam</b><br>featuring <b>Eli Han</b> and <i>Web</i> by 070 Shake<br><br>HD color<br>2023<br>3mins",
     centeragain: "",
