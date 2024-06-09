@@ -23,7 +23,7 @@ let projects = [
     centeralign:
       "A glimpse into the collision of M and J, two young people who find desire in each other. Slow intimacy, queer yearning, power, and tenderness.",
     leftalign:
-      "director/editor <b>Mylvaganam</b><br>producers <b>Eli Han</b> and <b>İsmet Mert Küçüker</b><br>director of photography <b>Haoshu Sascha Deng</b><br>composition <b>ballet moshers</b><br>starring <b>Jacky Herrera</b> and <b>Maira Walker</b><br><br>16mm color<br>2024<br>14mins",
+      "director/editor <b>Mylvaganam</b><br>producers <b>Eli Han</b> and <b>İsmet Mert Küçüker</b><br>director of photography <b>Haoshu Sascha Deng</b><br>composition <b>ballet moshers</b><br>starring <b>Jacky Herrera</b> and <b>Maira Walker</b><br><br>16mm color on video<br>2023<br>14mins",
     centeragain: "",
     images: [
       "<img loading='lazy' src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/1dreamlogic25.jpg?v=1707639087122' alt='still from Dreamlogic'>",
@@ -39,9 +39,9 @@ let projects = [
     name: "In Remembrance of a Bottle",
     username: "inremembrance",
     centeralign:
-      "Flicker* study of shattering glass, pooling liquid, and simultaneous intimacies.<br>(cut from footage shot for <a href='#dreamlogic'><i>Dreamlogic</i></a>)<br>*photosensitive viewers proceed with caution",
+      "Flicker* study of shattering glass, pooling liquid, and simultaneous intimacies.<br>*photosensitive viewers proceed with caution",
     leftalign:
-      "director/editor <b>Mylvaganam</b><br>production <b>Dreamlogic team</b><br><br>16mm color<br>2024<br>87sec",
+      "director/editor <b>Mylvaganam</b><br>production <b>Dreamlogic team</b><br><br>16mm color on video<br>2023<br>87sec",
     centeragain: "Winnipeg Underground Film Festival 2024",
     images: [
       "<img loading='lazy' src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/inremembrance1.jpg?v=1707635511975' alt='still from In Remembrance of a Bottle'>",
