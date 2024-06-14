@@ -312,12 +312,6 @@ function initMain() {
     about[0].footer +
     about[0].contact;
 
-  // ARTIC CONTENT
-  //about content
-  document.getElementById("artic").innerHTML =
-    document.getElementById("artic").innerHTML +
-    "Hello, Art Institute! Here is my portfolio site- you’ll find my work under PROJECTS. Note that my portfolio is mostly cinematography rather than photography. Enjoy~~~";
-
   //project list content
   for (let i = 0; i < projects.length; i++) {
     let newline = "";
