@@ -10,7 +10,7 @@ let about = [
     blurb:
       "Mylvaganam is interested in slow cinema, queer intimacies, and experimental media. Being of mixed Chinoy and Sri Lankan Tamil descent, her work has always existed in a middle ground: between analog and digital mediums, between creative and technical disciplines, between past and present temporalities.<br>She holds a B.A. in Radio/Television/Film and Computer Science from Northwestern University and currently works in the production studio at the National Gallery of Art in Washington, DC. She likes herself best when she’s passionate.",
     contact:
-      "<br><a href='mailto:mylvaganamamelia@gmail.com'>mylvaganamamelia@gmail.com</a>&nbsp;&nbsp;&nbsp;&nbsp;<a target=_blank href='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/Mylvaganam%20resume%20031524%20site.pdf?v=1710521422511'>resume</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://instagram.com/myylvaganam' target='_blank'>instagram</a>",
+      "<br><a href='mailto:mylvaganamamelia@gmail.com'>mylvaganamamelia@gmail.com</a>&nbsp;&nbsp;&nbsp;&nbsp;<a target=_blank href='https://www.youtube.com/@Myylvaganam'>youtube</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://instagram.com/myylvaganam' target='_blank'>instagram</a>",
     footer:
       "<br><br><section id=aboutfooter>ps: this site is hand-coded with javascript, html, a little css, and lots of love</section>",
   },
@@ -286,6 +286,12 @@ function imFeelingLucky() {
   projectlink.click();
 }
 
+//this is for ... u guessed it.. MoMA PS1 (I really, really want this fellowship)
+function initMainMoma(){
+   document.getElementById("momahome").innerHTML =
+    "☆ ENTER THE OYSTER ☆ ENTER THE OYSTER ☆ ENTER THE OYSTER ☆ ENTER THE OYSTER ☆ ENTER THE OYSTER ☆ ENTER THE OYSTER ☆ ENTER THE OYSTER ☆";
+
+}
 function initMain() {
   // alert("welcome! have fun poking around here...");
   //home greeting
@@ -296,7 +302,8 @@ function initMain() {
   // homestring.addEventListener("click", function () {
   //   window.open("https://mylvaganam.glitch.me", "_self"); // if homestring is clicked, "navigate home" aka links to load main pg
   // });
-
+  //MoMA add
+ 
   //about content
   document.getElementById("about").innerHTML =
     document.getElementById("about").innerHTML +
