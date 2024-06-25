@@ -18,6 +18,9 @@ let about = [
 
 let projects = [
   {
+    name: "National Gallery of Art",
+  },
+  {
     name: "Dreamlogic",
     username: "dreamlogic",
     centeralign:
@@ -318,19 +321,30 @@ function initMain() {
     if (i == 0) {
       newline =
         "<section class='titles'>FILM</section>" +
-        "<section class='subtitles'>DIRECTING</section>";
-    } else if (i == 2) {
+        "<section class='subtitles'>COMMERCIAL / INSTITUTIONAL</section>";
+    } else if (i == 1) {
+      newline =
+        "<br><section class='subtitles'>DIRECTING</section>";
+    } else if (i == 3) {
       newline = "<br><section class='subtitles'>CINEMATOGRAPHY</section>";
-    } else if (i == 8) {
+    } else if (i == 9) {
       newline = "<br><section class='subtitles'>PERSONAL</section>";
-    } else if (i == 12) {
+    } else if (i == 13) {
       newline = "<br><section class='subtitles'>SOUND</section>";
       // } else if (i == 12) {
       //   newline = "<br><section class='titles'>WRITING</section>";
-    } else if (i == 13) {
+    } else if (i == 14) {
       newline = "<br><section class='titles'>CODE </section>";
     }
 
+    if (i==0){
+      newline =
+      newline +
+      "<a href=nga.html target='_blank'>National Gallery of Art</a><br>";
+    document.getElementById("projects").innerHTML =
+      document.getElementById("projects").innerHTML + newline;
+    }
+    else{
     newline =
       newline +
       "<a href=#" +
@@ -342,6 +356,7 @@ function initMain() {
       "</a><br>";
     document.getElementById("projects").innerHTML =
       document.getElementById("projects").innerHTML + newline;
+    }
   }
 
   //initiating individual project content
