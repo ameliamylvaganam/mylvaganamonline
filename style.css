@@ -8,6 +8,10 @@ a:hover {
 img {
   pointer-events: none;
 }
+
+.ngaimgs{
+  width: 20px;
+}
 body {
   background: hsl(130, 40%, 60%);
   color: hsl(10, 80%, 40%);
