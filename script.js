@@ -19,6 +19,13 @@ let about = [
 let projects = [
   {
     name: "National Gallery of Art",
+    username: "nga",
+    centeralign:"",
+    leftalign:
+      "",
+    centeragain: "",
+    images: [],
+    embedcode: "",
   },
   {
     name: "Dreamlogic",
@@ -152,8 +159,7 @@ let projects = [
     centeragain: "",
     images: [],
     embedcode:
-      "<iframe title='vimeo-player' src='https://player.vimeo.com/video/715810730?h=24dcab5075' width='640' height='480' frameborder='0' allowfullscreen></iframe>",
-  },
+      ""},
   {
     name: "Daffodils",
     username: "daffodils",
