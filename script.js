@@ -322,15 +322,13 @@ function initMain() {
     about[0].contact;
 
   //project list content
-  for (let i = 0; i < projects.length; i++) {
+  for (let i = 1; i < projects.length; i++) {
     let newline = "";
     if (i == 0) {
-      newline =
-        "<section class='titles'>FILM</section>" +
-        "<section class='subtitles'>COMMERCIAL / INSTITUTIONAL</section>";
+      newline = "<section class='subtitles'>COMMERCIAL / INSTITUTIONAL</section>";
     } else if (i == 1) {
-      newline =
-        "<br><section class='subtitles'>DIRECTING</section>";
+      newline = "<section class='titles'>FILM</section>" +
+        "<section class='subtitles'>DIRECTING</section>";
     } else if (i == 3) {
       newline = "<br><section class='subtitles'>CINEMATOGRAPHY</section>";
     } else if (i == 9) {
