@@ -9,9 +9,7 @@ img {
   pointer-events: none;
 }
 
-.ngaimgs{
-  width: 20px;
-}
+
 body {
   background: hsl(130, 40%, 60%);
   color: hsl(10, 80%, 40%);
@@ -115,6 +113,12 @@ marquee {
 
 .projbody img {
   width: 49%;
+  height: auto;
+  margin: 0.5%;
+}
+
+.ngaclass img{
+  width: 25%;
   height: auto;
   margin: 0.5%;
 }
