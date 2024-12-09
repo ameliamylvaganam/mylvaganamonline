@@ -8,7 +8,7 @@ let about = [
     image:
       "<img src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/meid.jpg?v=1707518188987' alt='me' width='105.4' height='141.6'/><br><br>",
     blurb:
-      "Mylvaganam is interested in slow cinema, queer intimacies, and experimental media. Being of mixed Chinoy and Sri Lankan Tamil descent, her work has always existed in a middle ground: between analog and digital mediums, between creative and technical disciplines, between past and present temporalities.<br>She holds a B.A. in Radio/Television/Film and Computer Science from Northwestern University and currently works in the production studio at the National Gallery of Art in Washington, DC. She likes herself best when she’s passionate.",
+      "Mylvaganam is interested in slow cinema, queer intimacies, and experimental media. Being of Chinoy and Sri Lankan Tamil descent, her work has always existed in a middle ground: between analog and digital mediums, between creative and technical disciplines, between past and present temporalities.<br>She holds a B.A. in Radio/Television/Film and Computer Science from Northwestern University and currently works in the production studio at the National Gallery of Art in Washington, DC. She likes herself best when she’s passionate.",
     contact:
       "<br><a href='mailto:mylvaganamamelia@gmail.com'>mylvaganamamelia@gmail.com</a>&nbsp;&nbsp;&nbsp;&nbsp;<a target=_blank href='https://www.youtube.com/@Myylvaganam'>youtube</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://instagram.com/myylvaganam' target='_blank'>instagram</a>",
     footer:
@@ -18,27 +18,14 @@ let about = [
 
 let projects = [
   {
-    name: "National Gallery of Art",
-    username: "nga",
-    centeralign: "",
-    leftalign:
-      "<b>Social Credits:</b><br><br>Cinematography and Editing:<br><a href='https://www.instagram.com/reel/C1DUnGaPb4V/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA%3D%3D' target='_blank'>Team USA ice skating</a><br><a href='https://www.instagram.com/reel/C6joWwEPmjh/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=='' target='_blank'>Frau Fiber</a><br><br>Cinematography:<br><a href='https://www.instagram.com/reel/C_i_S6BPuR_/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==' target='_blank'>Paris 1874 teaser</a><br><br>Editing:<br><a href='https://youtube.com/shorts/SyCOy6LF1H4?si=JlbYKF9lGTn5rFes' target='_blank'>Binh Danh</a><br><br>Excerpting Editing:<br><a href='https://youtube.com/shorts/aE6MOnglUdM?si=Wq2pIuJx26_S7LGY' target='_blank'>Eva Hesse's 'Test Piece for Contingent'</a><br><br>",
-    centeragain: "",
-    images: [
-      "<img loading='lazy' src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/iceskating.gif?v=1718341838888' alt='gif of National Gallery of Art ice skating Instagram Reel'/>",
-      "<img loading='lazy' src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/fraufiber.gif?v=1718342851258' alt='gif of National Gallery of Art Frau Fiber Instagram Reel'/>",
-      "<img loading='lazy' src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/binhdanh.gif?v=1718343257342' alt='gif of National Gallery of Art Binh Danh YouTube Short'/>",
-    ],
-    embedcode: "",
-  },
-  {
     name: "Dreamlogic",
     username: "dreamlogic",
     centeralign:
       "A glimpse into the collision of M and J, two young people who find desire in each other. Slow intimacy, queer yearning, power, and tenderness.",
     leftalign:
       "director/editor <b>Mylvaganam</b><br>producers <b>Eli Han</b> and <b>İsmet Mert Küçüker</b><br>director of photography <b>Haoshu Sascha Deng</b><br>composition <b>ballet moshers</b><br>starring <b>Jacky Herrera</b> and <b>Maira Walker</b><br><br>16mm color on video<br>2023<br>14mins",
-    centeragain: "Kansas City Underground Film Festival 2024<br>Blow-up Arthouse Film Festival Semi-Finalist 2024",
+    centeragain:
+      "Kansas City Underground Film Festival 2024<br>Blow-up Arthouse Film Festival Semi-Finalist 2024",
     images: [
       "<img loading='lazy' src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/1dreamlogic25.jpg?v=1707639087122' alt='still from Dreamlogic'>",
       "<img loading='lazy' src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/2dreamlogic1.jpg?v=1707639087504' alt='still from Dreamlogic'>",
@@ -222,6 +209,20 @@ let projects = [
       "<iframe width='315' height='315' src='https://www.youtube.com/embed/Sht0H3Idgf8?si=zPMyZKGj78XINQSx' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
   },
   {
+    name: "tops",
+    username: "tops",
+    centeralign:
+      "A pocket zine of images taken with my blindcam, a screen-less and preview-less point-and-shoot I've had since the 4th grade.",
+    leftalign:
+      "24pgs<br>color print on white paper with sticker detail<br>sept 2024",
+    centeragain: "",
+    images: [
+      "<img loading='lazy' src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/IMG_0051.JPG?v=1731452021399' alt='four copies of tops zine'>",
+      "<img loading='lazy' src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/IMG_0047.JPG?v=1731452024463' alt='a spread from tops zine'>",
+    ],
+    embedcode: "",
+  },
+  {
     name: "Dear journal,",
     username: "journal",
     centeralign:
@@ -254,15 +255,18 @@ let projects = [
     embedcode: "",
   },
   {
-    name: "tops",
-    username: "tops",
-    centeralign:
-      "A pocket zine of images taken with my blindcam, a screen-less and preview-less point-and-shoot I've had since the 4th grade.",
-    leftalign: "24pgs<br>color print on white paper<br>sept 2024",
+    name: "National Gallery of Art",
+    username: "nga",
+    centeralign: "",
+    leftalign:
+      "<b>Social Credits:</b><br><br>Cinematography and Editing:<br><a href='https://www.instagram.com/reel/C1DUnGaPb4V/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA%3D%3D' target='_blank'>Team USA ice skating</a><br><a href='https://www.instagram.com/reel/C6joWwEPmjh/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=='' target='_blank'>Frau Fiber</a><br><br>Cinematography:<br><a href='https://www.instagram.com/reel/C_i_S6BPuR_/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==' target='_blank'>Paris 1874 teaser</a><br><br>Editing:<br><a href='https://youtube.com/shorts/SyCOy6LF1H4?si=JlbYKF9lGTn5rFes' target='_blank'>Binh Danh</a><br><br>Excerpting Editing:<br><a href='https://youtube.com/shorts/aE6MOnglUdM?si=Wq2pIuJx26_S7LGY' target='_blank'>Eva Hesse's 'Test Piece for Contingent'</a><br><br>",
     centeragain: "",
-    images: ["<img loading='lazy' src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/IMG_0051.JPG?v=1731452021399' alt='four copies of tops zine'>",
-            "<img loading='lazy' src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/IMG_0047.JPG?v=1731452024463' alt='a spread from tops zine'>"],
-    embedcode:'',
+    images: [
+      "<img loading='lazy' src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/iceskating.gif?v=1718341838888' alt='gif of National Gallery of Art ice skating Instagram Reel'/>",
+      "<img loading='lazy' src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/fraufiber.gif?v=1718342851258' alt='gif of National Gallery of Art Frau Fiber Instagram Reel'/>",
+      "<img loading='lazy' src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/binhdanh.gif?v=1718343257342' alt='gif of National Gallery of Art Binh Danh YouTube Short'/>",
+    ],
+    embedcode: "",
   },
 
   // {
@@ -339,24 +343,23 @@ function initMain() {
   for (let i = 0; i < projects.length; i++) {
     let newline = "";
     if (i == 0) {
-      newline = "";
-      // newline = "<section class='subtitles'>COMMERCIAL / INSTITUTIONAL</section>";
-    } else if (i == 1) {
       newline =
         "<br><section class='titles'>FILM</section>" +
         "<section class='subtitles'>DIRECTING</section>";
-    } else if (i == 3) {
+    } else if (i == 2) {
       newline = "<br><section class='subtitles'>CINEMATOGRAPHY</section>";
-    } else if (i == 9) {
+    } else if (i == 8) {
       newline = "<br><section class='subtitles'>PERSONAL</section>";
-    } else if (i == 13) {
+    } else if (i == 12) {
       newline = "<br><section class='subtitles'>SOUND</section>";
       // } else if (i == 12) {
       //   newline = "<br><section class='titles'>WRITING</section>";
+    } else if (i == 13) {
+      newline = "<br><section class='titles'>PHOTO</section>";
     } else if (i == 14) {
       newline = "<br><section class='titles'>CODE </section>";
     } else if (i == 16) {
-      newline = "<br><section class='titles'>TACTILE </section>";
+      newline = "<br><br>";
     }
 
     // if (i==0){
