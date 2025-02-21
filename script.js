@@ -258,8 +258,12 @@ let projects = [
     name: "National Gallery of Art",
     username: "nga",
     centeralign: "",
-    leftalign:
-      "<b>Social Credits:</b><br><br>Cinematography and Editing:<br><a href='https://www.instagram.com/reel/C1DUnGaPb4V/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA%3D%3D' target='_blank'>Team USA ice skating</a><br><a href='https://www.instagram.com/reel/C6joWwEPmjh/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=='' target='_blank'>Frau Fiber</a><br><br>Cinematography:<br><a href='https://www.instagram.com/reel/C_i_S6BPuR_/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==' target='_blank'>Paris 1874 teaser</a><br><br>Editing:<br><a href='https://youtube.com/shorts/SyCOy6LF1H4?si=JlbYKF9lGTn5rFes' target='_blank'>Binh Danh</a><br><br>Excerpting Editing:<br><a href='https://youtube.com/shorts/aE6MOnglUdM?si=Wq2pIuJx26_S7LGY' target='_blank'>Eva Hesse's 'Test Piece for Contingent'</a><br><br>",
+    leftalign: [
+      "<b>Video Credits</b><br><a href='https://www.youtube.com/watch?v=x7-fR0hqHww' target='_blank'>How Does Seurat Connect Pointillism to Workers Rights?</a> (Videography)<br><a href='https://www.youtube.com/watch?v=-w86mu7y8dY' target='_blank'>Immerse Yourself in Impressionist Art</a> (Editing)<br><a href='https://www.youtube.com/watch?v=9TXFD0sX9VQ' target='_blank'>Inside the Corcoran’s Incredible Art Collection</a> (Asst. Production Coordination)",
+      "<b>Social Credits</b><br>John Jennings reimagines Watson and the Shark (coming soon!) (Editing)<br><a href='https://www.instagram.com/reel/C1DUnGaPb4V/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA%3D%3D' target='_blank'>Team USA ice skating</a> (Cinematography & Editing)<br><a href='https://www.instagram.com/reel/C6joWwEPmjh/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==' target='_blank'>Frau Fiber</a> (Cinematography & Editing)<br><a href='https://www.instagram.com/reel/C_i_S6BPuR_/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==' target='_blank'>Paris 1874 teaser</a> (Cinematography)<br><a href='https://youtube.com/shorts/SyCOy6LF1H4?si=JlbYKF9lGTn5rFes' target='_blank'>Binh Danh</a> (Editing)<br><a href='https://youtube.com/shorts/aE6MOnglUdM?si=Wq2pIuJx26_S7LGY' target='_blank'>Eva Hesse's 'Test Piece for Contingent'</a> (Excerpting Editing)<br><br>",
+      "<b>Lectures (Editing)</b><br><a href='https://youtu.be/l_FWl3c4CHM?si=c8BcK9XFW5jaLuOB' target='_blank'>India and the World: East, West, and Coming Full Circle (Mira Nair)</a><br><a href='https://youtu.be/e3ES6IQ66PA?si=Sv6V9LkRON0YOFys' target='_blank'>The Immersive in Caravaggio’s Malta (Keith Sciberras)</a><br><a href='https://youtu.be/D9AHDXQm7IM?si=Dzt8pb3WlQKnw3r5' target='_blank'>The Impressionist Revolution 1874-1886 (David Gariff)</a><br><a href='https://youtu.be/0BUkVT0ieEI?si=oAMeYo61Fkxme3Wn' target='_blank'>Portraits & Perspective: Wendy MacNaughton on Dorothea Lange</a><br><a href='https://youtu.be/esrTt3wGojk?si=W4lFNc2Cx1rlJQPS' target='_blank'>Understanding Dorothea Lange's Impact on Documentary Photography (Carolyn Drake and Susan Meiselas) </a><br><br>",
+    
+    ],
     centeragain: "",
     images: [
       "<img loading='lazy' src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/iceskating.gif?v=1718341838888' alt='gif of National Gallery of Art ice skating Instagram Reel'/>",
@@ -394,11 +398,12 @@ function initMain() {
       "<br><br><section class=projbody>" +
       currproj.centeralign +
       "</section>";
-    newhtml =
-      newhtml +
-      "<br><section class=projbody style='text-align:justify;'>" +
-      currproj.leftalign +
-      "</section>";
+    for (let j = 0; j < currproj.leftalign.length; j++)
+      newhtml =
+        newhtml +
+        "<br><section class=projbody style='text-align:justify;'>" +
+        currproj.leftalign[j] +
+        "</section>";
     newhtml =
       newhtml +
       "<section class=projbody>" +
