@@ -18,6 +18,30 @@ let about = [
 
 let projects = [
   {
+    name: "Chiu Quon",
+    username: "chiuquon",
+    centeralign:
+      "A sentimental ode to a Chicago Chinese bakery.",
+    leftalign:
+      ["camera & editing <b>Mylvaganam</b><br>sound recording & ft <b>Eli Han</b><br><br>super 8 on video<br>2025<br>48sec"],
+    centeragain:
+      "",
+    images: [],
+    embedcode: "<iframe width='560' height='315' src='https://www.youtube.com/embed/FMvfHjnn70Y?si=WQ73J_ppZuBr_kP8' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>",
+  },
+  {
+    name: "balsam x fraser fir hybrid",
+    username: "balsam",
+    centeralign:
+      "A home video following the trials and laughs of a family attempting to balance a falling Christmas tree.",
+    leftalign:
+      ["by <b>Mylvaganam</b><br>featuring <b>Myla, Em, Agnes, and Chandran</b><br><br>HD color<br>2025<br>14mins"],
+    centeragain:
+      "",
+    images: [],
+    embedcode: "<iframe width='560' height='315' src='https://www.youtube.com/embed/vdhioPq2tUY?si=yDrY3adcR9rNUkMr' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>",
+  },
+  {
     name: "Dreamlogic",
     username: "dreamlogic",
     centeralign:
@@ -350,19 +374,19 @@ function initMain() {
       newline =
         "<br><section class='titles'>FILM</section>" +
         "<section class='subtitles'>DIRECTING</section>";
-    } else if (i == 2) {
+    } else if (i == 4) {
       newline = "<br><section class='subtitles'>CINEMATOGRAPHY</section>";
-    } else if (i == 8) {
+    } else if (i == 10) {
       newline = "<br><section class='subtitles'>PERSONAL</section>";
-    } else if (i == 12) {
+    } else if (i == 14) {
       newline = "<br><section class='subtitles'>SOUND</section>";
       // } else if (i == 12) {
       //   newline = "<br><section class='titles'>WRITING</section>";
-    } else if (i == 13) {
+    } else if (i == 15) {
       newline = "<br><section class='titles'>PHOTO</section>";
-    } else if (i == 14) {
-      newline = "<br><section class='titles'>CODE </section>";
     } else if (i == 16) {
+      newline = "<br><section class='titles'>CODE </section>";
+    } else if (i == 18) {
       newline = "<br><br>";
     }
 
