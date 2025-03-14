@@ -23,7 +23,7 @@ let projects = [
     centeralign:
       "A glimpse into the collision of M and J, two young people who find desire in each other. Slow intimacy, queer yearning, power, and tenderness.",
     leftalign:
-      "director/editor <b>Mylvaganam</b><br>producers <b>Eli Han</b> and <b>İsmet Mert Küçüker</b><br>director of photography <b>Haoshu Sascha Deng</b><br>composition <b>ballet moshers</b><br>starring <b>Jacky Herrera</b> and <b>Maira Walker</b><br><br>16mm color on video<br>2023<br>14mins",
+      ["director/editor <b>Mylvaganam</b><br>producers <b>Eli Han</b> and <b>İsmet Mert Küçüker</b><br>director of photography <b>Haoshu Sascha Deng</b><br>composition <b>ballet moshers</b><br>starring <b>Jacky Herrera</b> and <b>Maira Walker</b><br><br>16mm color on video<br>2023<br>14mins"],
     centeragain:
       "Kansas City Underground Film Festival 2024<br>Blow-up Arthouse Film Festival Semi-Finalist 2024",
     images: [
@@ -42,7 +42,7 @@ let projects = [
     centeralign:
       "Flicker* study of shattering glass, pooling liquid, and simultaneous intimacies.<br>*photosensitive viewers proceed with caution",
     leftalign:
-      "director/editor <b>Mylvaganam</b><br>production <b>Dreamlogic team</b><br><br>16mm color on video<br>2023<br>87sec",
+      ["director/editor <b>Mylvaganam</b><br>production <b>Dreamlogic team</b><br><br>16mm color on video<br>2023<br>87sec"],
     centeragain: "Winnipeg Underground Film Festival 2024",
     images: [
       "<img loading='lazy' src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/inremembrance1.jpg?v=1707635511975' alt='still from In Remembrance of a Bottle'>",
@@ -60,7 +60,7 @@ let projects = [
     centeralign:
       "A woman caught in a monotonous life finds moments where reality and dreams blur.",
     leftalign:
-      "writer/director <b>Haoshu Sascha Deng</b><br>producers <b>Andrew Kline</b> and <b>Sophia Pedro Torres</b><br>cinematography <b>Mylvaganam</b><br>sound <b>Wes Park</b><br>starring <b>JG Singhal</b> and <b>Eli Han</b><br><br>2K B&W<br>short film<br>filmed August 2023, currently in post-production",
+      ["writer/director <b>Haoshu Sascha Deng</b><br>producers <b>Andrew Kline</b> and <b>Sophia Pedro Torres</b><br>cinematography <b>Mylvaganam</b><br>sound <b>Wes Park</b><br>starring <b>JG Singhal</b> and <b>Eli Han</b><br><br>2K B&W<br>short film<br>filmed August 2023, currently in post-production"],
     centeragain: "",
     images: [
       "<img loading='lazy' src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/humdrum1?v=1707525894876' alt='still from Humdrum Ecstasy'>",
@@ -78,7 +78,7 @@ let projects = [
     centeralign:
       "In a near-future world, Tara works at a call center that replicates the voices of lost loved ones. An unexpected call disrupts her daily rhythm.",
     leftalign:
-      "writer/director <b>Tanisha Tekriwal</b><br>producers <b>Shay Park</b> and <b>Stephanie Xu</b><br>cinematography <b>Mylvaganam</b>, gaffer <b>Shane Chung</b><br>sound <b>Eli Han</b><br>starring <b>Mantra Radhakrishnan</b> and <b>Manish Shah</b><br><br>4K color<br>short film<br>filmed February 2023, currently in post-production",
+      ["writer/director <b>Tanisha Tekriwal</b><br>producers <b>Shay Park</b> and <b>Stephanie Xu</b><br>cinematography <b>Mylvaganam</b>, gaffer <b>Shane Chung</b><br>sound <b>Eli Han</b><br>starring <b>Mantra Radhakrishnan</b> and <b>Manish Shah</b><br><br>4K color<br>short film<br>filmed February 2023, currently in post-production"],
     centeragain: "",
     images: [
       "<img loading='lazy' src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/1dreamhotline35.jpg?v=1708671593402' alt='still from DREAMHOTLINE'>",
@@ -96,7 +96,7 @@ let projects = [
     centeralign:
       "Father and keyboardist Jesse struggles to manage the occupational hazards of running an 80s rock cover band—all while raising his 11-year-old daughter, Stevie, who gets caught up in the chaos.",
     leftalign:
-      "writer <b>Xanthe Brown</b><br>director <b>Lola Selby</b><br>producers <b>Brooke Scott</b> and <b>Caroline Bates</b><br>cinematography <b>Mylvaganam</b>, gaffer <b>Sam Clayton</b><br>sound <b>Nick Kapp</b><br>starring <b>Manish Shah</b><br><br>4K color<br>tv pilot<br>filmed April 2023, currently in post-production",
+      ["writer <b>Xanthe Brown</b><br>director <b>Lola Selby</b><br>producers <b>Brooke Scott</b> and <b>Caroline Bates</b><br>cinematography <b>Mylvaganam</b>, gaffer <b>Sam Clayton</b><br>sound <b>Nick Kapp</b><br>starring <b>Manish Shah</b><br><br>4K color<br>tv pilot<br>filmed April 2023, currently in post-production"],
     centeragain: "",
     images: [
       "<img loading='lazy' src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/dadanddaughter1.jpg?v=1708924707128' alt='still from The Band'>",
@@ -113,7 +113,7 @@ let projects = [
     centeralign:
       "A woman finds a mysterious video discussing the female eating habits of a dystopian society.",
     leftalign:
-      "writer/director <b>Erin Zhang</b><br>producers <b>Tanisha Tekriwal</b> and <b>Sofia Veraza</b><br>cinematography <b>Mylvaganam</b> and <b>Haoshu Sascha Deng</b>, gaffer <b>Tej Narayanan</b><br><br>4K color, stopmotion<br>short film<br>2022",
+      ["writer/director <b>Erin Zhang</b><br>producers <b>Tanisha Tekriwal</b> and <b>Sofia Veraza</b><br>cinematography <b>Mylvaganam</b> and <b>Haoshu Sascha Deng</b>, gaffer <b>Tej Narayanan</b><br><br>4K color, stopmotion<br>short film<br>2022"],
     centeragain:
       "<a href='https://www.atlantafilmfestival.com/film-guide-2023' target='_blank'>Atlanta Film Festival 2023</a><br><a href ='https://dailynorthwestern.com/2022/05/24/ae/shelf-life-goes-small-scale-for-the-big-screen-student-produced-film-uses-stop-motion-to-fit-its-set-on-pool-table/' target='_blank'>Daily Northwestern article</a>",
     images: [],
@@ -126,7 +126,7 @@ let projects = [
     centeralign:
       "When two siblings find themselves trapped in a strange motel, they are forced to reconsider and repair their relationship.",
     leftalign:
-      "writer/director <b>Tanisha Tekriwal</b><br>producers <b>Eli Han</b> and <b>Caroline Bates</b><br>cinematography <b>Mylvaganam</b>, gaffer <b>Xanthe Brown</b><br>starring <b>Mantra Radhakrishnan</b> and <b>Mirrat</b><br><br>2K color<br>short film<br>2022",
+      ["writer/director <b>Tanisha Tekriwal</b><br>producers <b>Eli Han</b> and <b>Caroline Bates</b><br>cinematography <b>Mylvaganam</b>, gaffer <b>Xanthe Brown</b><br>starring <b>Mantra Radhakrishnan</b> and <b>Mirrat</b><br><br>2K color<br>short film<br>2022"],
     centeragain: "",
     images: [
       "<img loading='lazy' src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/painmotel41.jpg?v=1708921915398' alt='still from Pain Motel'>",
@@ -146,7 +146,7 @@ let projects = [
     centeralign:
       "After surviving her life-ending attempt, Liv returns home to her over-protective stepmom and estranged brother, who are all struggling to move forward as a family.",
     leftalign:
-      "writer/director <b>Haoshu Sascha Deng</b><br>producers <b>Delaney Glassner</b> and <b>Catie Moore</b><br>cinematography <b>Mylvaganam</b>, gaffer <b>Thomas Quinn</b><br>sound <b>Eli Han</b><br>starring <b>Laney Yoo</b>, <b>Ethan Cheng</b>, and <b>Carmen Campbell-Villalobos</b><br><br>2K color<br>2022<br>18mins",
+      ["writer/director <b>Haoshu Sascha Deng</b><br>producers <b>Delaney Glassner</b> and <b>Catie Moore</b><br>cinematography <b>Mylvaganam</b>, gaffer <b>Thomas Quinn</b><br>sound <b>Eli Han</b><br>starring <b>Laney Yoo</b>, <b>Ethan Cheng</b>, and <b>Carmen Campbell-Villalobos</b><br><br>2K color<br>2022<br>18mins"],
     centeragain: "",
     images: [],
     embedcode: "",
@@ -156,7 +156,7 @@ let projects = [
     username: "daffodils",
     centeralign: "Triptych of the filmmaker's most intimate relationships.",
     leftalign:
-      "made by <b>Mylvaganam</b><br>featuring <b>Eli Han</b> and <i>Web</i> by 070 Shake<br><br>HD color<br>2023<br>3mins",
+      ["made by <b>Mylvaganam</b><br>featuring <b>Eli Han</b> and <i>Web</i> by 070 Shake<br><br>HD color<br>2023<br>3mins"],
     centeragain: "",
     images: [],
     embedcode:
@@ -167,7 +167,7 @@ let projects = [
     username: "windows",
     centeralign: "A personally voyeuristic look into strangers' windows.",
     leftalign:
-      "made by <b>Mylvaganam</b><br>featuring <b>Eli Han</b> and <b>Haoshu Sascha Deng</b><br><br>HD color<br>2021<br>3mins",
+      ["made by <b>Mylvaganam</b><br>featuring <b>Eli Han</b> and <b>Haoshu Sascha Deng</b><br><br>HD color<br>2021<br>3mins"],
     centeragain: "",
     images: [],
     embedcode:
@@ -178,7 +178,7 @@ let projects = [
     username: "toast",
     centeralign: "Intimate portrait of Eli making toast for 2.",
     leftalign:
-      "made by <b>Mylvaganam</b><br>featuring <b>Eli Han</b><br><br>HD color, silent<br>2021<br>3mins",
+      ["made by <b>Mylvaganam</b><br>featuring <b>Eli Han</b><br><br>HD color, silent<br>2021<br>3mins"],
     centeragain: "",
     images: [],
     embedcode:
@@ -191,10 +191,10 @@ let projects = [
       "<a href='https://www.youtube.com/@myylvaganam/videos' target=_blank>click here for more personal films</a>",
     leftalign: "",
     centeragain:
-      "things I make from a need to make something... things I make to make sense of things.<br>here's one from the end of 2022 featuring my family:",
+      "things I make from a need to make something... things I make to make sense of things.<br>here's one from fall 2023 with my mom:",
     images: [],
     embedcode:
-      "<iframe width='560' height='315' src='https://www.youtube.com/embed/E5N8elk9Zog?si=tijV8hFsKFwfuPwd' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
+      "<iframe width='560' height='315' src='https://www.youtube.com/embed/O3w16eY9WjQ?si=dipZXb15B3R-d080' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>",
   },
   {
     name: "skateaway",
@@ -202,7 +202,7 @@ let projects = [
     centeralign:
       "Two friends skateboard to a party while telling each other stories a la Eugene Lim.",
     leftalign:
-      "recording/mixing <b>Mylvaganam</b><br>featuring <b>Eli Han</b> and <b>Mylvaganam</b><br><br>stereo mix<br>2022",
+      ["recording/mixing <b>Mylvaganam</b><br>featuring <b>Eli Han</b> and <b>Mylvaganam</b><br><br>stereo mix<br>2022"],
     centeragain: "",
     images: [],
     embedcode:
@@ -214,8 +214,8 @@ let projects = [
     centeralign:
       "A pocket zine of images taken with my blindcam, a screen-less and preview-less point-and-shoot I've had since the 4th grade.",
     leftalign:
-      "24pgs<br>color print on white paper with sticker detail<br>sept 2024",
-    centeragain: "",
+      ["24pgs<br>color print on white paper with sticker detail<br>sept 2024"],
+    centeragain: "stocked at <a href='https://peoplesbooktakoma.com/' target='_blank'>People's Book</a> in Takoma Park, MD",
     images: [
       "<img loading='lazy' src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/IMG_0051.JPG?v=1731452021399' alt='four copies of tops zine'>",
       "<img loading='lazy' src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/IMG_0047.JPG?v=1731452024463' alt='a spread from tops zine'>",
@@ -228,7 +228,7 @@ let projects = [
     centeralign:
       "<a href='https://dearjournal.glitch.me' target=_blank>click here for the site</a>",
     leftalign:
-      "<i>Dear journal,</i> is an ongoing collection of people sharing their journal entries of varying forms. On each load, you are presented with a random clip and its associated color. I made it in hopes of providing moments of connection in a very isolating time. Hearing someone's voice is an intimate thing. There is also a catalog page, if you wish to be the master of your own navigation. It's a live project that continues to grow. Submit a clip to be added <a href='https://forms.gle/9yHF4ZmSEyF32ji56' target=_blank>here</a>.<br><br>webpage<br>2021",
+      ["<i>Dear journal,</i> is an ongoing collection of people sharing their journal entries of varying forms. On each load, you are presented with a random clip and its associated color. I made it in hopes of providing moments of connection in a very isolating time. Hearing someone's voice is an intimate thing. There is also a catalog page, if you wish to be the master of your own navigation. It's a live project that continues to grow. Submit a clip to be added <a href='https://forms.gle/9yHF4ZmSEyF32ji56' target=_blank>here</a>.<br><br>webpage<br>2021"],
     centeragain: "",
     images: [
       "<img loading='lazy' src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/journal1.png?v=1708915471810' alt='screenshot from dear journal, site'>",
@@ -244,7 +244,7 @@ let projects = [
     centeralign:
       "<a href='https://commmodities.glitch.me' target=_blank>click here for my user pg</a>",
     leftalign:
-      "<a href='https://sundaysites.cafe' target=_blank>Sunday sites</a> is monthly online gathering where participants spend a couple hours making a site from a given prompt- pure HTML and CSS only.",
+      ["<a href='https://sundaysites.cafe' target=_blank>Sunday sites</a> is monthly online gathering where participants spend a couple hours making a site from a given prompt- pure HTML and CSS only."],
     centeragain: "",
     images: [
       "<img loading='lazy' src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/ss2.gif?v=1708919940830' alt='gif of sun/moon switch in petuliabythekooks.glitch.me'>",
