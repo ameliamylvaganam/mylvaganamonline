@@ -1,4 +1,4 @@
-new portfolio for filmmaker/cinematographer/coder Mylvaganam
+portfolio for filmmaker/cinematographer/coder Mylvaganam
 mylvaganam.online
 
 features to add:
