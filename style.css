@@ -6,7 +6,7 @@ a:hover {
   color: hsl(60, 95%, 95%);
 }
 img {
-  pointer-events: none;
+  pointer-events: auto;
 }
 
 body {
