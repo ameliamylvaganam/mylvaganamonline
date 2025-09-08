@@ -98,7 +98,7 @@ let projects = [
     centeralign:
       "A woman caught in a monotonous life finds moments where reality and dreams blur.",
     leftalign: [
-      "writer/director <b>Haoshu Sascha Deng</b><br>producers <b>Andrew Kline</b> and <b>Sophia Pedro Torres</b><br>cinematography <b>Mylvaganam</b><br>sound <b>Wes Park</b><br>starring <b>JG Singhal</b> and <b>Eli Han</b><br><br>2K B&W<br>short film<br>April 2025",
+      "writer/director <b>Haoshu Sascha Deng</b><br>producers <b>Andrew Kline</b> and <b>Sophia Pedro Torres</b><br>cinematography <b>Mylvaganam</b><br>sound <b>Wes Park</b><br>starring <b>JG Singhal</b> and <b>Eli Han</b><br><br>2K B&W<br>short film<br>2025",
     ],
     centeragain: "Kansas City Underground Film Festival 2025<br>Midwest Film Festival Roadshow 2025<br>Bronze Age Film Co-Op x Kiosk 2025",
     images: [
@@ -117,7 +117,7 @@ let projects = [
     centeralign:
       "In a near-future world, Tara works at a call center that replicates the voices of lost loved ones. An unexpected call disrupts her daily rhythm.",
     leftalign: [
-      "writer/director <b>Tanisha Tekriwal</b><br>producers <b>Shay Park</b> and <b>Stephanie Xu</b><br>cinematography <b>Mylvaganam</b>, gaffer <b>Shane Chung</b><br>sound <b>Eli Han</b><br>starring <b>Mantra Radhakrishnan</b> and <b>Manish Shah</b><br><br>4K color<br>short film<br>filmed February 2023, currently in post-production",
+      "writer/director <b>Tanisha Tekriwal</b><br>producers <b>Shay Park</b> and <b>Stephanie Xu</b><br>cinematography <b>Mylvaganam</b>, gaffer <b>Shane Chung</b><br>sound <b>Eli Han</b><br>starring <b>Mantra Radhakrishnan</b> and <b>Manish Shah</b><br><br>4K color<br>short film<br>2025",
     ],
     centeragain: "International South Asian Film Festival Canada 2025<br>Chicago South Asian Film Festival 2025<br>Make News, presented by Minorities in Film, NY/LA/ATL 2025",
     images: [
