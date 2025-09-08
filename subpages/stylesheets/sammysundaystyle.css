@@ -1,0 +1,49 @@
+h2 {
+  font-family: "Georgia", serif;
+  text-align: center;
+  letter-spacing: 0.08em;
+  font-style: italic;
+}
+
+a:link,
+a:visited {
+  color: yellow;
+}
+
+body {
+  background: hsl(240, 50%, 83%);
+  color: hsl(55, 100%, 90%);
+  font-family: "Arial", sans-serif;
+  font-size: 15px;
+  letter-spacing: 0.02em;
+  line-height: 2em;
+}
+
+.textblock {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+  width: 70vw;
+  text-align: justify;
+}
+
+.textblock div {
+  display: none;
+}
+
+.textblock div:target {
+  display: block;
+}
+
+#footer {
+  font-size: 80%;
+  position: absolute;
+  bottom: 0;
+  height: 2rem;
+  font-style: italic;
+}
+
+#footer-wrap {
+  padding-bottom: 2rem;
+}

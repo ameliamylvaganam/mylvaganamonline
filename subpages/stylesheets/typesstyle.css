@@ -1,0 +1,52 @@
+body{
+  font-family: Arial, serif;
+  background-color: #fffaeb;
+  color: #cc0000;
+  font-size: 13px;
+}
+
+table{
+  border-collapse:collapse;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+td{
+  border:2px solid #cc0000;
+  text-align: center;
+  width: 40%;
+}
+
+.initials{
+  font-style: italic;
+  text-transform: lowercase;
+}
+
+#page-wrap{
+  position: relative;
+  min-height: 97vh;
+}
+
+#footer {
+  font-size: 80%;
+  font-weight: bold;
+  position: absolute;
+  bottom: 0;
+  height: 2rem;  
+}
+
+#footer-wrap {
+  padding-bottom: 2rem;
+}
+
+a:link, a:visited{
+  color: #cc0000;
+  font-style: italic;
+}
+
+a:hover{
+  color: #fffaeb;
+}

@@ -1,0 +1,256 @@
+/* a minimalist set of CSS resets */
+
+/* default to border-box */
+html {
+  box-sizing: border-box;
+  background-color: #88DAFF;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+/* adjust typography defaults */
+body {
+  margin-top: 3vh;
+  font-family: monospace;
+  line-height: 1.5;
+}
+
+/* images and videos max out at full width */
+img,
+video {
+  height: auto;
+  max-width: 100%;
+}
+
+#sun {
+  text-align: center;
+  line-height: 130px;
+  font-size: 18px;
+
+  width: 130px;
+  height: 130px;
+  border-radius: 50%;
+  background: #ffd500;
+  color: #1e1e70;
+  font-weight: bold;
+  align-items: center;
+  display: inline-block;
+}
+
+#road {
+  content: "";
+  position: absolute;
+  width: 100vw;
+  height: 8vh;
+  top: 92vh;
+  left: 0;
+  z-index: -1;
+  background-color: #3a3b42;
+}
+
+#roadline {
+  content: "";
+  position: relative;
+  width: 100%;
+  height: 5%;
+  top: 40%;
+  left: 0;
+  right: 0;
+  z-index: 0;
+  background-color: #ffd500;
+}
+
+#tree {
+  position: relative;
+  top: -110%;
+  left: 30%;
+  width: 0;
+  height: 0;
+  border-left: 3vh solid transparent;
+  border-right: 3vh solid transparent;
+  border-bottom: 5vh solid #06640f;
+}
+
+#treetrunk {
+  position: relative;
+  top: 5vh;
+  left: -8px;
+  width: 2vh;
+  height: 4vh;
+  background-color: #643a06;
+}
+
+/* hover switching background */
+#sun:hover:before {
+  content: "";
+  position: absolute;
+  display: block;
+  top: 0;
+  bottom: 5vh;
+  left: 0;
+  right: 0;
+  z-index: -1;
+  background-color: #1e1e70;
+}
+
+/* hover switching circle and text colors */
+#sun:hover {
+  background-color: #ccdfe9;
+  color: #b69800;
+}
+
+/* hover switching sun/moon text value*/
+#sun .moontext {
+  display: none;
+}
+
+#sun:hover .suntext {
+  display: none;
+}
+
+#sun:hover .moontext {
+  display: inline;
+}
+
+/* positioning stars */
+
+#star1 {
+  position: absolute;
+  top: 10vh;
+  left: 10vw;
+  width: 10px;
+  height: 10px;
+}
+#star2 {
+  position: absolute;
+  top: 20vh;
+  right: 20vw;
+  width: 10px;
+  height: 10px;
+}
+#star3 {
+  position: absolute;
+  top: 30vh;
+  left: 30vw;
+  width: 10px;
+  height: 10px;
+}
+#star4 {
+  position: absolute;
+  top: 37vh;
+  right: 40vw;
+  width: 10px;
+  height: 10px;
+}
+#star5 {
+  position: absolute;
+  top: 75vh;
+  left: 53vw;
+  width: 10px;
+  height: 10px;
+}
+#star6 {
+  position: absolute;
+  top: 60vh;
+  right: 60vw;
+  width: 10px;
+  height: 10px;
+}
+#star7 {
+  position: absolute;
+  top: 70vh;
+  left: 70vw;
+  width: 10px;
+  height: 10px;
+}
+#star8 {
+  position: absolute;
+  top: 80vh;
+  right: 80vw;
+  width: 10px;
+  height: 10px;
+}
+#star9 {
+  position: absolute;
+  top: 65vh;
+  right: 90vw;
+  width: 10px;
+  height: 10px;
+}
+#star10 {
+  position: absolute;
+  top: 45vh;
+  left: 15vw;
+  width: 10px;
+  height: 10px;
+}
+#star11 {
+  position: absolute;
+  top: 39vh;
+  right: 10vw;
+  width: 10px;
+  height: 10px;
+}
+#star12 {
+  position: absolute;
+  top: 80vh;
+  right: 80vw;
+  width: 10px;
+  height: 10px;
+}
+
+/* changing star colors on sun hover */
+#sun:hover ~ #star1,
+#sun:hover ~ #star2,
+#sun:hover ~ #star3,
+#sun:hover ~ #star4,
+#sun:hover ~ #star5,
+#sun:hover ~ #star6,
+#sun:hover ~ #star7,
+#sun:hover ~ #star8,
+#sun:hover ~ #star9,
+#sun:hover ~ #star10,
+#sun:hover ~ #star11,
+#sun:hover ~ #star12 {
+  background: #ffffff;
+}
+
+/* scrolling car (marquee) */
+marquee {
+  font-size: 6vh;
+  position: relative;
+  bottom: 120%;
+}
+
+
+#sundaysitetext {
+  position: absolute;
+  right: 1vh;
+  top: 0vh;
+  z-index: 0;
+  color: white;
+}
+
+#sundaysitelink {
+  font-family: cursive;
+}
+
+#userpagelink {
+  font-family: cursive;
+}
+
+a:link {
+  color: white;
+  text-decoration: none;
+}
+a:visited {
+  color: white;
+}
+
+a:hover{
+  color: #ff0000;
+}

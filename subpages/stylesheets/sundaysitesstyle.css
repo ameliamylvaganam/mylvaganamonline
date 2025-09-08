@@ -1,0 +1,63 @@
+/* default to border-box */
+html {
+  box-sizing: border-box;
+  font-size: 15px;
+  background-color: #78ffbd;
+  color: #00697a;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 1rem;
+  font-family: Arial, sans-serif;
+  line-height: 1.5;
+  text-align: center;
+  margin-top: 30px;
+}
+
+/* images and videos max out at full width */
+img,
+video {
+  height: auto;
+  max-width: 100%;
+}
+
+a:link {
+  color: #4a00ff;
+  text-decoration: none;
+}
+a:visited {
+  color: #4a00ff;
+}
+a:hover {
+  color: #ff00f9;
+}
+
+#sites-wrap{
+  position: absolute;
+  left: 50%;
+  top: 40%;
+  -ms-transform: translate(-50%, 0);
+  transform: translate(-50%, 0);
+}
+
+#sites{
+  text-align: left;
+}
+
+#post-sites{
+  position: absolute;
+  left: 50%;
+  top: 90%;
+  -ms-transform: translate(-50%, 0);
+  transform: translate(-50%, 0);
+  text-align: left;
+}
+#hide{
+  color: #78ffbd;
+}

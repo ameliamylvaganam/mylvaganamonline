@@ -1,0 +1,57 @@
+body {
+  font-family: Arial, serif;
+  background-color: hsl(200, 90%, 45%);
+  color: hsl(20, 90%, 75%);
+  font-size: 13px;
+  word-break: break-all;
+  margin-bottom: 100px;
+  font-style: italic;
+}
+
+div {
+  text-align: justify;
+  text-justify: inter-character;
+  font-size: 1.5vw;
+}
+
+.item {
+  position: absolute;
+  line-height: 1;
+}
+
+.hoveritem {
+  position: relative;
+  display: none;
+  font-size: 1em;
+  color: white;
+  font-style: normal;
+}
+
+.item:hover .hoveritem {
+  display: block;
+  /*font-style: italic;*/
+}
+
+#page-wrap {
+  position: relative;
+  min-height: 97vh;
+}
+
+a:link,
+a:visited {
+  color: hsl(20, 90%, 75%);
+  text-decoration: none;
+  /*   font-style: italic; */
+}
+
+a:hover {
+  color: hsl(200, 90%, 65%);
+}
+
+#secret {
+  color: hsl(20, 90%, 35%);
+}
+
+#secret:hover {
+  color: hsl(200, 90%, 65%);
+}

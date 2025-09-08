@@ -1,0 +1,156 @@
+h1 {
+  font-family: "Menlo", monospace;
+  color: white;
+  text-align: center;
+}
+
+h3 {
+  font-family: "Menlo", monospace;
+  color: white;
+  text-align: center;
+}
+
+h5 {
+  font-family: "Menlo", monospace;
+  color: white;
+  text-align: center;
+}
+
+a:link, a:visited{
+  color: yellow;
+}
+
+body {
+  background: url("../assets/squirrel.jpg")
+    white;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  overscroll-behavior: none;
+
+  color: black;
+  font-family: sans-serif;
+  font-size: 15px;
+}
+
+.memboxes {
+  width: 90vw;
+  height: 100vh;
+  padding: 0;
+  margin: 0;
+
+  position: absolute;
+  line-height: 1.2em;
+  font-family: sans-serif;
+}
+
+.mem {
+  background-color: yellow;
+  padding: 5px;
+  position: relative;
+  width: 100px;
+  font-size: 10px;
+
+  height: auto;
+  overflow-wrap: normal;
+}
+
+#_5 {
+  left: 98%;
+}
+
+#_52 {
+  left: 9%;
+}
+
+#_7 {
+  left: 73%;
+}
+
+#_8 {
+  left: 82%;
+}
+
+#_9 {
+  left: 50%;
+}
+
+#_92 {
+  left: 30%;
+}
+
+#_93 {
+  left: 51%;
+}
+
+#_94 {
+  left: 10%;
+}
+
+#_95 {
+  left: 75%;
+}
+
+#_10 {
+  left: 55%;
+  width: 140px;
+}
+
+#_11 {
+  left: 25%;
+}
+
+#_12 {
+  left: 2%;
+}
+
+#_122 {
+  left: 89%;
+  width: 170px;
+}
+
+#_13 {
+  left: 36%;
+}
+
+#_14 {
+  left: 98%;
+}
+
+#_142 {
+  left: 27%;
+}
+
+#_16 {
+  left: 6%;
+}
+
+#_162 {
+  left: 70%;
+  width: 200px;
+}
+
+#_17 {
+  left: 20%;
+}
+
+#_172 {
+  left: 93%;
+}
+
+#_173 {
+  left: 10%;
+}
+
+#_18 {
+  left: 64%;
+}
+
+#_182 {
+  left: 80%;
+}
+
+#_183 {
+  left: 29%;
+}
