@@ -293,7 +293,7 @@ let projects = [
     name: "Sunday sites",
     username: "sundaysites",
     centeralign:
-      "<a href='subpages/sundaysites.html' target=_blank>click here for my user pg</a>",
+      "<a href='subpages/sundaysites' target=_blank>click here for my user pg</a>",
     leftalign: [
       "<a href='https://sundaysites.cafe' target=_blank>Sunday sites</a> is monthly online gathering where participants spend a couple hours making a site from a given prompt- pure HTML and CSS only.",
     ],
