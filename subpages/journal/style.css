@@ -1,0 +1,50 @@
+body {
+  font-family: "Helvetica", sans-serif;
+  color: #ffffff;
+}
+
+h4{
+  color: #000000;
+  text-align: center;
+  width: 100vw;
+}
+
+/* unvisited link */
+a:link {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+  color: #000000;
+  text-decoration: none;
+}
+
+#catalog{
+  top: 1vh;
+  left: 0vh;
+  font-family: "Times New Roman", serif;
+  text-decoration: underline;
+}
+
+#footer {
+  position: absolute;
+  font-size: 12px;
+  bottom: 2vh;
+}
+.audioplayer {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+  -ms-transform: translateX(-50%);
+  transform: translateX(-50%);
+}
