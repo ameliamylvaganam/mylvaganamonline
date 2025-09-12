@@ -276,7 +276,7 @@ let projects = [
     name: "Dear journal,",
     username: "journal",
     centeralign:
-      "<a href='https://dearjournal.glitch.me' target=_blank>click here for the site</a>",
+      "<a href='subpages/journal/index' target=_blank>click here for the site</a>",
     leftalign: [
       "<i>Dear journal,</i> is an ongoing collection of people sharing their journal entries of varying forms. On each load, you are presented with a random clip and its associated color. I made it in hopes of providing moments of connection in a very isolating time. Hearing someone's voice is an intimate thing. There is also a catalog page, if you wish to be the master of your own navigation. It's a live project that continues to grow. Submit a clip to be added <a href='https://forms.gle/9yHF4ZmSEyF32ji56' target=_blank>here</a>.<br><br>webpage<br>2021",
     ],
