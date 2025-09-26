@@ -473,7 +473,7 @@ function initMain() {
     if (currproj.leftagain != null) {
     newhtml =
       newhtml +
-      "<section class=projbody>" +
+      "<section class=projbody style='text-align:justify;'>" +
       currproj.leftagain +
       "</section>";}
     document.getElementById(currproj.username).innerHTML = newhtml;
