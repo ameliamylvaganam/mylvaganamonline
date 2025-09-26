@@ -73,6 +73,7 @@ let projects = [
       "<img loading='lazy' src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/6dreamlogic24.jpg?v=1707639089000' alt='still from Dreamlogic'>",
     ],
     embedcode: "",
+    centeragain2: "<br>While in covid isolation in 2021, I went to the empty park across from my apartment every day at sunset. Over those 10 days, I noticed subtle changes in the landscape - the rapid emergence and life cycle of dandelions, a growing swarm of leafy green weeds, the blooming of small purple flowers in bunches. Much like these elements I wouldn’t have noticed without the recurring trip, in its inception I wanted Dreamlogic to challenge the audience to intensely immerse themselves into a landscape, so intensely that they notice the most subtle of changes, such as the wind displacing hairs. Some parts of the film are more drastic in their movement, but even through the shots with more action, the creeping pace of time is noticeable, daring the audience to give the film their undivided attention. The film carries the audience through waves of sensation, building tension and releasing it with catharsis.<br><br>Many of these shots came to me in my dreams, that is, I had an experience from a particular point of view, and once awake I longed to recreate that unique visual perspective for others to see.<br><br>Dreamlogic craves to hold your attention, and I hope you'll let it.",
   },
   {
     name: "In Remembrance of a Bottle",
