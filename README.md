@@ -1,4 +1,4 @@
-portfolio for filmmaker/cinematographer/coder Mylvaganam
+portfolio for Amelia Mylvaganam
 mylvaganam.online
 
 features to add:
