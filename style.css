@@ -146,6 +146,11 @@ video {
   margin-bottom: auto;
 }
 
+.neighborvert{
+  margin-top: 7.85% !important;
+  margin-bottom: 7.85% !important;
+}
+
 .vert{
   width: 24% !important;
   margin-left: 4.5% !important;
