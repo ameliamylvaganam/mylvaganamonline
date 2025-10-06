@@ -117,20 +117,18 @@ marquee {
 }
 
 #photoportstack{
-  text-align: center;
-
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 80vw;}
+  width: 80vw !important;}
 
 .photoport img{
-  width: 30%;
-  height: auto;
-  margin: 0.5%;}
+  width: 30% !important;
+  height: auto !important;
+  margin: 0.5% !important;}
 
 .photoport img .vert{
-  width: 22.5%;
+  width: 22.5% !important;
   height: auto;
   margin: 0.5%;}
   
