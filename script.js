@@ -386,11 +386,6 @@ function imFeelingLucky() {
   projectlink.click();
 }
 
-//this is for ... u guessed it.. MoMA PS1 (I really, really want this fellowship)
-function initMainMoma() {
-  document.getElementById("momahome").innerHTML =
-    "☆ ENTER THE OYSTER ☆ ENTER THE OYSTER ☆ ENTER THE OYSTER ☆ ENTER THE OYSTER ☆ ENTER THE OYSTER ☆ ENTER THE OYSTER ☆ ENTER THE OYSTER ☆";
-}
 function initMain() {
   // alert("welcome! have fun poking around here...");
   //home greeting
@@ -401,7 +396,6 @@ function initMain() {
   // homestring.addEventListener("click", function () {
   //   window.open("https://mylvaganam.glitch.me", "_self"); // if homestring is clicked, "navigate home" aka links to load main pg
   // });
-  //MoMA add
 
   //about content
   document.getElementById("about").innerHTML =
