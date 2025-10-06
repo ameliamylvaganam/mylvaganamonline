@@ -333,19 +333,8 @@ let projects = [
       "Below is a sampling of my photo work. Contact me at mylvaganamamelia@gmail.com for any photo inquiries.",
     leftalign: [],
     centeragain: "",
-    images: [
-      "<div id='photoportstack'> <img loading='lazy' class='photoport' src='subpages/assets/photo1.jpg' alt='photography sample'/>",
-      "<img loading='lazy' class='photoport' src='subpages/assets/photo2.jpg' alt='photography sample'/>",
-      "<img loading='lazy' class='photoport' src='subpages/assets/photo3.jpg' alt='photography sample'/>",
-      "<img loading='lazy' class='photoport' src='subpages/assets/photo4.jpg' alt='photography sample'/>",
-      "<img loading='lazy' class='photoport vert' src='subpages/assets/photo5.jpg' alt='photography sample'/>",
-      "<img loading='lazy' class='photoport' src='subpages/assets/photo6.jpg' alt='photography sample'/>",
-      "<img loading='lazy' class='photoport' src='subpages/assets/photo7.jpg' alt='photography sample'/>",
-      "<img loading='lazy' class='photoport' src='subpages/assets/photo8.jpg' alt='photography sample'/>",
-      "<img loading='lazy' class='photoport' src='subpages/assets/photo9.jpg' alt='photography sample'/></div>",
-      
-    ],
-    embedcode: "",
+    images: [],
+    embedcode: "<div id='photoportstack'> <img loading='lazy' class='photoport' src='subpages/assets/photo1.jpg' alt='photography sample'/><img loading='lazy' class='photoport' src='subpages/assets/photo2.jpg' alt='photography sample'/><img loading='lazy' class='photoport' src='subpages/assets/photo3.jpg' alt='photography sample'/><img loading='lazy' class='photoport' src='subpages/assets/photo4.jpg' alt='photography sample'/><img loading='lazy' class='photoport vert' src='subpages/assets/photo5.jpg' alt='photography sample'/><img loading='lazy' class='photoport' src='subpages/assets/photo6.jpg' alt='photography sample'/><img loading='lazy' class='photoport' src='subpages/assets/photo7.jpg' alt='photography sample'/><img loading='lazy' class='photoport' src='subpages/assets/photo8.jpg' alt='photography sample'/><img loading='lazy' class='photoport' src='subpages/assets/photo9.jpg' alt='photography sample'/></div>
   },
 
   // {
