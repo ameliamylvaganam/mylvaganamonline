@@ -138,12 +138,12 @@ video {
   margin-right: auto;
   width: 80vw !important;}
 
-.photoport img{
+#photoportstack img{
   width: 30% !important;
   height: auto !important;
   margin: 0.5% !important;}
 
-.photoport img .vert{
+#photoportstack img .vert{
   width: 22.5% !important;
   height: auto;
   margin: 0.5%;}
