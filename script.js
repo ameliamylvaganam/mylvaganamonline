@@ -28,6 +28,20 @@ let projects = [
     embedcode: "",
   },*/
   {
+    name: "Hands",
+    username: "hands",
+    centeralign:
+      "A collage film made for <a href='https://www.instagram.com/reel/DOhIPbyiXeX/?utm_source=ig_web_copy_link'>Matwaala's Mehfilm Festival</a>.",
+    leftalign: [
+      "film <b>Mylvaganam</b><br>poem: Hands by <b>Sophia Naz</b><br>composition: track 8, indigo lake by <b>ballet moshers</b><br><br>mix of archival, digital, 16mm, and super 8 on video<br>2025<br>4mins",
+    ],
+    centeragain: "Matwaala x South Asia Institute Mehfilm Festival 2025",
+    images: [],
+    embedcode: "",
+    leftagain: "",
+    /*embedcode: "<iframe width='560' height='315' src='https://www.youtube.com/embed/FMvfHjnn70Y?si=WQ73J_ppZuBr_kP8' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>",*/
+  },
+  {
     name: "Chiu Quon",
     username: "chiuquon",
     centeralign:
@@ -407,8 +421,7 @@ function initMain() {
     let newline = "";
     if (i == 0) {
       newline =
-        "<section class='titles'>FILM</section>" +
-        "<section class='subtitles'>DIRECTING</section>";
+        "<section class='titles'>FILM</section>";
     } else if (i == 3) {
       newline = "<br><section class='subtitles'>CINEMATOGRAPHY</section>";
     } else if (i == 7) {
