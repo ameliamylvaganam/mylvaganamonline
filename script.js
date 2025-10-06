@@ -326,20 +326,20 @@ let projects = [
     embedcode: "",
   },
 
-  {
-    name: "Event Photography",
-    username: "event",
-    centeralign:
-      "Below is a sampling of my event photography work. Contact me about photographing your next event❗️",
-    leftalign: [],
-    centeragain: "",
-    images: [
-      "<img loading='lazy' src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/iceskating.gif?v=1718341838888' alt='gif of National Gallery of Art ice skating Instagram Reel'/>",
-      "<img loading='lazy' src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/fraufiber.gif?v=1718342851258' alt='gif of National Gallery of Art Frau Fiber Instagram Reel'/>",
+  // {
+  //   name: "Event Photography",
+  //   username: "event",
+  //   centeralign:
+  //     "Below is a sampling of my event photography work. Contact me about photographing your next event❗️",
+  //   leftalign: [],
+  //   centeragain: "",
+  //   images: [
+  //     "<img loading='lazy' src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/iceskating.gif?v=1718341838888' alt='gif of National Gallery of Art ice skating Instagram Reel'/>",
+  //     "<img loading='lazy' src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/fraufiber.gif?v=1718342851258' alt='gif of National Gallery of Art Frau Fiber Instagram Reel'/>",
       
-    ],
-    embedcode: "",
-  },
+  //   ],
+  //   embedcode: "",
+  // },
 
   // {
   //   name: "19 and a half",
