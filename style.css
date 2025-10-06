@@ -116,7 +116,7 @@ marquee {
   margin: 0.5%;
 }
 
-#imagestack{
+#photoportstack{
   text-align: center;
 
   display: block;
@@ -124,12 +124,12 @@ marquee {
   margin-right: auto;
   width: 80vw;}
 
-#imagestack img{
+.photoport img{
   width: 30%;
   height: auto;
   margin: 0.5%;}
 
-#imagestack img .vert{
+.photoport img .vert{
   width: 22.5%;
   height: auto;
   margin: 0.5%;}
