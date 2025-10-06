@@ -146,7 +146,7 @@ video {
   margin-bottom: auto;
 }
 
-#photoportstack img .vert{
+.vert{
   width: 22.5% !important;
   height: auto;
   margin: 0.5%;}
