@@ -122,7 +122,12 @@ marquee {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 70vw;}
+  width: 80vw;}
+
+#imagestack img{
+  width: 30%;
+  height: auto;
+  margin: 0.5%;}
   
 
 .ngaclass img{
