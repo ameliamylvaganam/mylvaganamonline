@@ -334,7 +334,7 @@ let projects = [
     leftalign: [],
     centeragain: "",
     images: [
-      "<img loading='lazy' class='photoport' src='subpages/assets/photo1.jpg' alt='photography sample'/>",
+      "<div id='photoportstack'> <img loading='lazy' class='photoport' src='subpages/assets/photo1.jpg' alt='photography sample'/>",
       "<img loading='lazy' class='photoport' src='subpages/assets/photo2.jpg' alt='photography sample'/>",
       "<img loading='lazy' class='photoport' src='subpages/assets/photo3.jpg' alt='photography sample'/>",
       "<img loading='lazy' class='photoport' src='subpages/assets/photo4.jpg' alt='photography sample'/>",
@@ -342,7 +342,7 @@ let projects = [
       "<img loading='lazy' class='photoport' src='subpages/assets/photo6.jpg' alt='photography sample'/>",
       "<img loading='lazy' class='photoport' src='subpages/assets/photo7.jpg' alt='photography sample'/>",
       "<img loading='lazy' class='photoport' src='subpages/assets/photo8.jpg' alt='photography sample'/>",
-      "<img loading='lazy' class='photoport' src='subpages/assets/photo9.jpg' alt='photography sample'/>",
+      "<img loading='lazy' class='photoport' src='subpages/assets/photo9.jpg' alt='photography sample'/></div>",
       
     ],
     embedcode: "",
