@@ -139,7 +139,7 @@ video {
   width: 80vw;}
 
 #photoportstack img{
-  width: 30%;
+  width: 32%;
   height: auto;
   margin: 0.5%;
   margin-top: auto;
@@ -147,7 +147,7 @@ video {
 }
 
 .vert{
-  width: 22.5%;
+  width: 24% !important;
   margin-left: 8% !important;
   margin-right: 8%!important;
 }
