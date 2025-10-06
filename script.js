@@ -326,20 +326,27 @@ let projects = [
     embedcode: "",
   },
 
-  // {
-  //   name: "Event Photography",
-  //   username: "event",
-  //   centeralign:
-  //     "Below is a sampling of my event photography work. Contact me about photographing your next event❗️",
-  //   leftalign: [],
-  //   centeragain: "",
-  //   images: [
-  //     "<img loading='lazy' src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/iceskating.gif?v=1718341838888' alt='gif of National Gallery of Art ice skating Instagram Reel'/>",
-  //     "<img loading='lazy' src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/fraufiber.gif?v=1718342851258' alt='gif of National Gallery of Art Frau Fiber Instagram Reel'/>",
+  {
+    name: "",
+    username: "photo",
+    centeralign:
+      "Below is a sampling of my photo work. Contact me at mylvaganamamelia@gmail.com for any photo inquiries",
+    leftalign: [],
+    centeragain: "",
+    images: [
+      "<img loading='lazy' src='subpages/assets/photo1.jpg' alt='photography sample'/>",
+      "<img loading='lazy' src='subpages/assets/photo2.jpg' alt='photography sample'/>",
+      "<img loading='lazy' src='subpages/assets/photo3.jpg' alt='photography sample'/>",
+      "<img loading='lazy' src='subpages/assets/photo4.jpg' alt='photography sample'/>",
+      "<img loading='lazy' class = 'vert' src='subpages/assets/photo5.jpg' alt='photography sample'/>",
+      "<img loading='lazy' src='subpages/assets/photo6.jpg' alt='photography sample'/>",
+      "<img loading='lazy' src='subpages/assets/photo7.jpg' alt='photography sample'/>",
+      "<img loading='lazy' src='subpages/assets/photo8.jpg' alt='photography sample'/>",
+      "<img loading='lazy' src='subpages/assets/photo9.jpg' alt='photography sample'/>",
       
-  //   ],
-  //   embedcode: "",
-  // },
+    ],
+    embedcode: "",
+  },
 
   // {
   //   name: "19 and a half",
