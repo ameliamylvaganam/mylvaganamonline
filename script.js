@@ -417,24 +417,24 @@ function initMain() {
 
   //project list content
   for (let i = 0; i < projects.length; i++) {
-    if (i == 13){continue} // skipping loop to avoid photog pg in the proj list
+    if (i == 14){continue} // skipping loop to avoid photog pg in the proj list
     let newline = "";
     if (i == 0) {
       newline =
         "<section class='titles'>FILM</section>";
-    } else if (i == 3) {
+    } else if (i == 4) {
       newline = "<br><section class='subtitles'>CINEMATOGRAPHY</section>";
-    } else if (i == 7) {
+    } else if (i == 8) {
       newline = "<br><section class='subtitles'>PERSONAL</section>";
     /*} else if (i == 15) {
       newline = "<br><section class='subtitles'>SOUND</section>";*/
       // } else if (i == 12) {
       //   newline = "<br><section class='titles'>WRITING</section>";
-    } else if (i == 9) {
-      newline = "<br><section class='titles'>PHOTO</section>";
     } else if (i == 10) {
+      newline = "<br><section class='titles'>PHOTO</section>";
+    } else if (i == 11) {
       newline = "<br><section class='titles'>CODE </section>";
-    } else if (i == 12) {
+    } else if (i == 13) {
       newline = "<br><br>";
     }
 
