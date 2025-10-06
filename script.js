@@ -407,6 +407,7 @@ function initMain() {
 
   //project list content
   for (let i = 0; i < projects.length; i++) {
+    if (i == 12){continue} // skipping loop to avoid photog pg in the proj list
     let newline = "";
     if (i == 0) {
       newline =
