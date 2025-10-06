@@ -330,7 +330,7 @@ let projects = [
     name: "Event Photography",
     username: "event",
     centeralign:
-      "Below are some photos I've taken at weddings, film screenings, and other events. Contact me about photographing your next event!",
+      "Below is a sampling of my event photography work. Contact me about photographing your next event❗️",
     leftalign: [],
     centeragain: "",
     images: [
