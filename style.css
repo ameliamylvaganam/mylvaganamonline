@@ -149,7 +149,9 @@ video {
 .vert{
   width: 22.5% !important;
   height: auto;
-  margin: 0.5%;}
+  margin: 0.5%;
+margin-left: 7.5%;
+margin-right: 7.5%}
 
 #aboutfooter {
   font-size: 9px;
