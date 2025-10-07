@@ -55,7 +55,7 @@ let projects = [
     leftagain: "<br>A Super 8 postcard of a place. Eli Han stars in this bustling morning scene at a small Chinese bakery in Chicago: Chiu Quon Bakery 超群茶餐廳 on Argyle Street.<br><br>Eli and I have been going to Chiu Quon every so often for a few years now, switching colors on the cta for the promise of cheap, cash-only goodies. After I left Chicagoland, Eli moved closer to Chiu Quon, and their bakery visits became walkable and more frequent than \"every so often\". I visited Eli in Chicago in early 2024 and filmed our visit there.<br><br>About a year later, I revisited the footage and asked Eli to record sound for me. They recorded the atmospheric bustle, the sounds of ordering, the crinkle of pastry being packaged. I layered it upon itself, with other things too (there's an easter egg in there for my DC friends). Eli's biggest note when I sent them the first cut was \"I miss like... the loud-ass sound of the refrigerators?\" So I added it back in, and it felt a lot homier, like how it feels inside Chiu Quon.<br><br>Chiu Quon is a film that meshes my senses of home, intertwining who&where I used to be with who&where I am now. No matter how I change, I know I can return to Chiu Quon and enjoy a 叉烧包 (bbq pork bun) that I wish had a little more filling, but tastes like home.",
     /*embedcode: "<iframe width='560' height='315' src='https://www.youtube.com/embed/FMvfHjnn70Y?si=WQ73J_ppZuBr_kP8' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>",*/
   },
-  /*{
+  {
     name: "balsam x fraser fir hybrid",
     username: "balsam",
     centeralign:
@@ -66,8 +66,8 @@ let projects = [
     centeragain: "",
     images: [],
     embedcode: "",
-    embedcode: "<iframe width='560' height='315' src='https://www.youtube.com/embed/vdhioPq2tUY?si=yDrY3adcR9rNUkMr' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>",
-  },*/
+    /*embedcode: "<iframe width='560' height='315' src='https://www.youtube.com/embed/vdhioPq2tUY?si=yDrY3adcR9rNUkMr' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>",*/
+  },
   {
     name: "Dreamlogic",
     username: "dreamlogic",
@@ -417,24 +417,24 @@ function initMain() {
 
   //project list content
   for (let i = 0; i < projects.length; i++) {
-    if (i == 14){continue} // skipping loop to avoid photog pg in the proj list
+    if (i == 15){continue} // skipping loop to avoid photog pg in the proj list
     let newline = "";
     if (i == 0) {
       newline =
         "<section class='titles'>FILM</section>";
-    } else if (i == 4) {
+    } else if (i == 5) {
       newline = "<br><section class='subtitles'>CINEMATOGRAPHY</section>";
-    } else if (i == 8) {
+    } else if (i == 9) {
       newline = "<br><section class='subtitles'>PERSONAL</section>";
     /*} else if (i == 15) {
       newline = "<br><section class='subtitles'>SOUND</section>";*/
       // } else if (i == 12) {
       //   newline = "<br><section class='titles'>WRITING</section>";
-    } else if (i == 10) {
-      newline = "<br><section class='titles'>PHOTO</section>";
     } else if (i == 11) {
+      newline = "<br><section class='titles'>PHOTO</section>";
+    } else if (i == 12) {
       newline = "<br><section class='titles'>CODE </section>";
-    } else if (i == 13) {
+    } else if (i == 14) {
       newline = "<br><br>";
     }
 
