@@ -7,7 +7,7 @@ let about = [
   {
     image:
       "<img src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/meid.jpg?v=1707518188987' alt='High-contrast image of Mylvaganam looking directly into camera' width='105.4' height='141.6'/><br><br>",
-    blurb: "Exploratory and expansive, Amelia Mylvaganam aims to find hidden worlds in the cracks and glimmers in this one. With a background in computer science, her films and new media work examine digitality and other intimacies. Her work has screened across North America at venues in Chicago, NY, Winnipeg, Atlanta, and more. She is currently based in Washington, DC and she likes herself best when she’s passionate.",
+    blurb: "Exploratory and expansive, Mylvaganam aims to find hidden worlds in the cracks and glimmers in this one. With a background in computer science, her films and new media work examine digitality and other intimacies. Her work has screened across North America at venues in Chicago, NY, Winnipeg, Atlanta, and more. She is currently based in Washington, DC and she likes herself best when she’s passionate.",
     contact:
       "<br><a href='mailto:mylvaganamamelia@gmail.com'>mylvaganamamelia@gmail.com</a>&nbsp;&nbsp;&nbsp;&nbsp;<a target=_blank href='https://www.youtube.com/@Myylvaganam'>youtube</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://instagram.com/myylvaganam' target='_blank'>instagram</a>",
     footer:
