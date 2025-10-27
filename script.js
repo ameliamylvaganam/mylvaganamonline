@@ -31,7 +31,7 @@ let projects = [
     name: "Hands",
     username: "hands",
     centeralign:
-      "A collage film made for <a href='https://www.instagram.com/reel/DOhIPbyiXeX/?utm_source=ig_web_copy_link'>Matwaala's Mehfilm Festival</a>.",
+      "You are certain. You are changing. You are exactly the same.<br>A collage film made for <a href='https://www.instagram.com/reel/DOhIPbyiXeX/?utm_source=ig_web_copy_link'>Matwaala's Mehfilm Festival</a>.",
     leftalign: [
       "film <b>Mylvaganam</b><br>poem: Hands by <b>Sophia Naz</b><br>composition: track 8, indigo lake by <b>ballet moshers</b><br><br>mix of archival, digital, 16mm, and super 8 on video<br>2025<br>4mins",
     ],
