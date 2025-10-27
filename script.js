@@ -93,7 +93,7 @@ let projects = [
     name: "In Remembrance of a Bottle",
     username: "inremembrance",
     centeralign:
-      "Flicker study of shattering glass, pooling liquid, and simultaneous intimacies.<br><br>(photosensitivity warning: contains flicker)",
+      "Flicker study of shattering glass, pooling liquid, and simultaneous intimacies.<br>(photosensitivity warning: contains flicker)",
     leftalign: [
       "director/editor <b>Mylvaganam</b><br>production <b>Dreamlogic team</b><br><br>16mm color on video<br>2023<br>87sec",
     ],
