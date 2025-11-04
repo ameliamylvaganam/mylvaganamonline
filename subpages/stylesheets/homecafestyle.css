@@ -1,0 +1,23 @@
+
+a:link,
+a:visited{
+  color: yellow;
+}
+
+h3{
+    display: inline;
+}
+
+body {
+  background: hsl(25, 98%, 53%);
+  color: hsl(5, 86%, 48%);
+  font-family: "Arial", sans-serif;
+  font-size: 18px;
+  /* letter-spacing: 0.02em;
+  line-height: 2em; */
+}
+
+
+img{
+    width: 200px;
+}
