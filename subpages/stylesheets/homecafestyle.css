@@ -23,3 +23,5 @@ img{
 }
 
 .wavy-underline { text-decoration: underline wavy yellow; }
+.lil-note {font-size: smaller;
+          color: hsl(5, 86%, 35%);}
