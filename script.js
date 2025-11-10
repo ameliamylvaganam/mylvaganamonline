@@ -6,12 +6,13 @@ let greetings = [
 let about = [
   {
     image:
-      "<img src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/meid.jpg?v=1707518188987' alt='High-contrast image of Mylvaganam looking directly into camera' width='105.4' height='141.6'/><br><br>",
-    blurb: "Exploratory and expansive, Mylvaganam aims to find hidden worlds in the cracks and glimmers in this one. With a background in computer science, her films and new media work examine digitality and other intimacies. Her work has screened across North America at venues in Chicago, NY, Winnipeg, Atlanta, and more. She is currently based in Washington, DC and she likes herself best when she’s passionate.",
+      `
+      <img src="https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/meid.jpg?v=1707518188987" alt="High-contrast image of Mylvaganam looking directly into camera" width="105.4" height="141.6"/><br><br>`,
+    blurb: "Exploratory and expansive, Mylvaganam aims to find hidden worlds in the cracks and glimmers in this one. She is currently based in Washington, DC and she likes herself best when she’s passionate.",
     contact:
-      "<br><a href='mailto:mylvaganamamelia@gmail.com'>mylvaganamamelia@gmail.com</a>&nbsp;&nbsp;&nbsp;&nbsp;<a target=_blank href='https://www.youtube.com/@Myylvaganam'>youtube</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://instagram.com/myylvaganam' target='_blank'>instagram</a>",
+      `<br><a href='mailto:mylvaganamamelia@gmail.com'>mylvaganamamelia@gmail.com</a>&nbsp;&nbsp;&nbsp;&nbsp;<a target=_blank href='https://www.youtube.com/@Myylvaganam'>youtube</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://instagram.com/myylvaganam' target='_blank'>instagram</a>`,
     footer:
-      "<br><br><section id=aboutfooter>ps: this site is hand-coded with javascript, html, a little css, and lots of love</section>",
+      `<br><br><section id=aboutfooter>ps: this site is hand-coded with javascript, html, a little css, and lots of love</section>`,
   },
 ];
 
@@ -31,9 +32,13 @@ let projects = [
     name: "Hands",
     username: "hands",
     centeralign:
-      "You are certain. You are changing. You are exactly the same.<br>A collage film made for <a href='https://www.instagram.com/reel/DOhIPbyiXeX/?utm_source=ig_web_copy_link'>Matwaala's Mehfilm Festival</a>.<br>(photosensitivity warning: contains flicker)",
+      `You are certain. You are changing. You are exactly the same.
+      <br>
+      A collage film made for <a href='https://www.instagram.com/reel/DOhIPbyiXeX/?utm_source=ig_web_copy_link'>Matwaala's Mehfilm Festival</a>.
+      <br>
+      (photosensitivity warning: contains flicker)`,
     leftalign: [
-      "film <b>Mylvaganam</b><br>poem: Hands by <b>Sophia Naz</b><br>composition: track 8, indigo lake by <b>ballet moshers</b><br><br>mix of archival, digital, 16mm, and super 8 on video<br>2025<br>4mins",
+      `film <b>Mylvaganam</b><br>poem: Hands by <b>Sophia Naz</b><br>composition: track 8, indigo lake by <b>ballet moshers</b><br><br>mix of archival, digital, 16mm, and super 8 on video<br>2025<br>4mins`,
     ],
     centeragain: "Matwaala x South Asia Institute Mehfilm Festival 2025",
     images: [],
