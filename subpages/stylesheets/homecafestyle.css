@@ -21,3 +21,5 @@ body {
 img{
     width: 200px;
 }
+
+.wavy-underline { text-decoration: underline wavy red; }
