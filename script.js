@@ -344,6 +344,33 @@ let projects = [
     ],
     embedcode: "",
   },
+  {
+    name: "for Tatter",
+    username: "tatter",
+    centeralign:
+      `Below is a selection of my videography experience, primarily for the National Gallery of Art.`,
+    leftalign: [
+      `<b>Shortform Social-Optimized Video</b>
+      <br>
+      <a href='https://www.instagram.com/reel/C6joWwEPmjh/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==' target='_blank'>Frau Fiber</a> (Cinematography & Editing)<br>
+      <a href='https://www.instagram.com/reel/DPKgiRtDbBZ/' target='_blank'>Shields/Escudos, Miguel Luciano</a> (Cinematography & Editing)<br>
+      <a href='https://www.instagram.com/reel/DRHuM9GjciB/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==' target='_blank'>at Odd Coffee, it's all in the details</a> (Cinematography & Editing)<br>
+      <a href='https://www.instagram.com/p/DNN4TqbA5c0/' target='_blank'>Movement, monuments</a> (Cinematography)<br>
+      <a href='https://www.instagram.com/reel/C_i_S6BPuR_/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==' target='_blank'>Paris 1874 teaser</a> (Cinematography)<br>`,
+    ],
+    centeragain: "",
+    images: [
+      "<img loading='lazy' src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/iceskating.gif?v=1718341838888' alt='gif of National Gallery of Art ice skating Instagram Reel'/>",
+      "<img loading='lazy' src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/fraufiber.gif?v=1718342851258' alt='gif of National Gallery of Art Frau Fiber Instagram Reel'/>",
+      
+    ],
+    embedcode: "",
+    leftagain:`<b>Longform YouTube-Optimized Video</b><br>
+    <a href='https://youtu.be/1D3mVVwqkX0' target='_blank'>Master Printmaker Honors Elizabeth Catlett with a Powerful Portrait</a> (Co-Cinematography)<br>
+    <a href='https://youtu.be/qhWf01YBvZ0' target='_blank'>The Creative Power of Devotion</a> (Co-Cinematography)<br>
+    <a href='https://youtu.be/oJCIr1rjBJU?si=FajJQriLK1DyUB2U' target='_blank'>See a Master Printmaker Create a Stunning Elizabeth Catlett Inspired Woodblock Print, Step-by-Step</a> (Co-Cinematography)<br>
+`
+  },
 
   {
     name: "",
