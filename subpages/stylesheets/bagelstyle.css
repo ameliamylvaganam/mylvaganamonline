@@ -4,28 +4,60 @@
   font-style: normal;
 }
 
+.heading{
+  text-align: center;
+}
 h2{
-    text-align: center;
     font-family: "Bungee Shade", sans-serif;
     font-size: 50px;
-}
-h5{
-    text-align: center;
-    font-family: "Work Sans", sans-serif;
+    display: inline;
 }
 
 body{
     background-color: hsl(130, 58%, 35%);
-    color: hsl(0, 0%, 100%);
+    font-family: "Arial", sans-serif;
+    color: whitesmoke;
+    /* font-weight: bold; */
 
-    animation: colorChange 4s infinite alternate; /* Animation properties */
+    animation: colorChange 4s infinite; /* Animation properties */
 }
 
+/*animation for background + text color change*/
 @keyframes colorChange {
-  from {
-    background-color: hsl(130, 58%, 35%); /* Red at the start */
+  0% {
+    background-color: hsl(130, 58%, 35%);
+    color: whitesmoke;
   }
-  to {
-    background-color: whitesmoke; /* Green in the middle */
+  50%{
+    background-color: hsl(130, 58%, 35%);
+    color: whitesmoke;
   }
+  50.1%{
+    background-color: whitesmoke;
+    color: hsl(130, 58%, 35%);
+  }
+  100%{
+    background-color: whitesmoke;
+    color: hsl(130, 58%, 35%);
+  }
+}
+
+img{
+  width: 200px;
+}
+
+a:link, a:visited{
+  color: hsl(197, 100%, 55%);
+  text-decoration: none;
+}
+a:hover{
+  color:hsl(324, 88%, 60%);
+}
+
+button{
+  background-color: whitesmoke;
+  color: hsl(130, 58%, 35%);
+  font-weight: bold;;
+  cursor: pointer;
+  padding: 10px 20px;
 }
