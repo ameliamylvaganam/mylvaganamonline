@@ -77,7 +77,7 @@ let projects = [
     name: "Dreamlogic",
     username: "dreamlogic",
     centeralign:
-      "A glimpse into the collision of M and J, two young people who find desire in each other. Slow intimacy, queer yearning, power, and tenderness.",
+      "A series of glimpses into the collision of M and J, creating something ephemeral, tender, and beyond description.",
     leftalign: [
       "director/editor <b>Mylvaganam</b><br>producers <b>Eli Han</b> and <b>İsmet Mert Küçüker</b><br>director of photography <b>Haoshu Sascha Deng</b><br>composition <b>ballet moshers</b><br>starring <b>Jacky Herrera</b> and <b>Maira Walker</b><br><br>16mm color on video<br>2023<br>14mins",
     ],
