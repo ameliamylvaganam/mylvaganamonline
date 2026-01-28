@@ -8,7 +8,7 @@ let about = [
     image:
       `
       <img src="https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/meid.jpg?v=1707518188987" alt="High-contrast image of Mylvaganam looking directly into camera" width="105.4" height="141.6"/><br><br>`,
-    blurb: "Exploratory and expansive, Mylvaganam aims to find hidden worlds in the cracks and glimmers in this one. With a background in computer science, her films and new media work examine digitality and other intimacies. She is currently based in Washington, DC and she likes herself best when she’s passionate.",
+    blurb: "Exploratory and expansive, Amelia Mylvaganam aims to find hidden worlds in the cracks and glimmers in this one. With a background in computer science, her films and new media work examine digitality and other intimacies. She is currently based in Washington, DC and she likes herself best when she’s passionate.",
     contact:
       `<br><a href='mailto:mylvaganamamelia@gmail.com'>mylvaganamamelia@gmail.com</a>&nbsp;&nbsp;&nbsp;&nbsp;<a target=_blank href='https://www.youtube.com/@Myylvaganam'>youtube</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://instagram.com/myylvaganam' target='_blank'>instagram</a>`,
     footer:
@@ -38,9 +38,9 @@ let projects = [
       <br>
       (photosensitivity warning: contains flicker)`,
     leftalign: [
-      `film <b>Mylvaganam</b><br>poem: Hands by <b>Sophia Naz</b><br>composition: track 8, indigo lake by <b>ballet moshers</b><br><br>mix of archival, digital, 16mm, and super 8 on video<br>2025<br>4mins`,
+      `film <b>Amelia Mylvaganam</b><br>poem: Hands by <b>Sophia Naz</b><br>composition: track 8, indigo lake by <b>ballet moshers</b><br><br>mix of archival, digital, 16mm, and super 8 on video<br>2025<br>4mins`,
     ],
-    centeragain: "Matwaala x South Asia Institute Mehfilm Festival 2025",
+    centeragain: "Old Town New Films 2025<br>Matwaala x South Asia Institute Mehfilm Festival 2025",
     images: [],
     embedcode: "",
     leftagain: "",
@@ -52,7 +52,7 @@ let projects = [
     centeralign:
       "A glimpse into a bustling morning at a Chicago Chinese bakery.",
     leftalign: [
-      "camera & editing <b>Mylvaganam</b><br>sound recording & featuring <b>Eli Han</b><br><br>super 8 on video<br>2025<br>49sec",
+      "camera & editing <b>Amelia Mylvaganam</b><br>sound recording & featuring <b>Eli Han</b><br><br>super 8 on video<br>2025<br>49sec",
     ],
     centeragain: "Rhizome DC x Filament: A Night of Moving Images 2025<br>Moonlighters #3 2025",
     images: ["<img loading='lazy' src='https://metalabel.imgix.net/QmRLMMHwnLovMC9r71jJhKBhNxMRnpjxXYxo1Hga7ofqLv?bg=ffffff&w=3840&fit=min&auto=format' alt='title still from Chiu Quon'>",],
@@ -79,7 +79,7 @@ let projects = [
     centeralign:
       "A series of glimpses into the collision of M and J, creating something ephemeral, tender, and beyond description.",
     leftalign: [
-      "director/editor <b>Mylvaganam</b><br>producers <b>Eli Han</b> and <b>İsmet Mert Küçüker</b><br>director of photography <b>Haoshu Sascha Deng</b><br>composition <b>ballet moshers</b><br>starring <b>Jacky Herrera</b> and <b>Maira Walker</b><br><br>16mm color on video<br>2023<br>14mins",
+      "director/editor <b>Amelia Mylvaganam</b><br>producers <b>Eli Han</b> and <b>İsmet Mert Küçüker</b><br>director of photography <b>Haoshu Sascha Deng</b><br>composition <b>ballet moshers</b><br>starring <b>Jacky Herrera</b> and <b>Maira Walker</b><br><br>16mm color on video<br>2023<br>14mins",
     ],
     centeragain:
       "Old Town New Films 2025<br>Kansas City Underground Film Festival 2024<br>Blow-up Arthouse Film Festival Semi-Finalist 2024<br>Sweet Void Cinema 2023",
@@ -100,7 +100,7 @@ let projects = [
     centeralign:
       "Flicker study of shattering glass, pooling liquid, and simultaneous intimacies.<br>(photosensitivity warning: contains flicker)",
     leftalign: [
-      "director/editor <b>Mylvaganam</b><br>production <b>Dreamlogic team</b><br><br>16mm color on video<br>2023<br>87sec",
+      "director/editor <b>Amelia Mylvaganam</b><br>production <b>Dreamlogic team</b><br><br>16mm color on video<br>2023<br>87sec",
     ],
     centeragain: "Winnipeg Underground Film Festival 2024<br>Rhizome DC x Filament 2024<br>Sweet Void Cinema 2024",
     images: [
@@ -119,7 +119,7 @@ let projects = [
     centeralign:
       "A woman caught in a monotonous life finds moments where reality and dreams blur.",
     leftalign: [
-      "writer/director <b>Haoshu Sascha Deng</b><br>producers <b>Andrew Kline</b> and <b>Sophia Pedro Torres</b><br>cinematography <b>Mylvaganam</b><br>sound <b>Wes Park</b><br>starring <b>JG Singhal</b> and <b>Eli Han</b><br><br>2K B&W<br>short film<br>2025",
+      "writer/director <b>Haoshu Sascha Deng</b><br>producers <b>Andrew Kline</b> and <b>Sophia Pedro Torres</b><br>cinematography <b>Amelia Mylvaganam</b><br>sound <b>Wes Park</b><br>starring <b>JG Singhal</b> and <b>Eli Han</b><br><br>2K B&W<br>short film<br>2025",
     ],
     centeragain: "Kansas City Underground Film Festival 2025<br>Midwest Film Festival Roadshow 2025<br>Bronze Age Film Co-Op x Kiosk 2025",
     images: [
@@ -138,7 +138,7 @@ let projects = [
     centeralign:
       "In a near-future world, Tara works at a call center that replicates the voices of lost loved ones. An unexpected call disrupts her daily rhythm.",
     leftalign: [
-      "writer/director <b>Tanisha Tekriwal</b><br>producers <b>Shay Park</b> and <b>Stephanie Xu</b><br>cinematography <b>Mylvaganam</b>, gaffer <b>Shane Chung</b><br>sound <b>Eli Han</b><br>starring <b>Mantra Radhakrishnan</b> and <b>Manish Shah</b><br><br>4K color<br>short film<br>2025",
+      "writer/director <b>Tanisha Tekriwal</b><br>producers <b>Shay Park</b> and <b>Stephanie Xu</b><br>cinematography <b>Amelia Mylvaganam</b>, gaffer <b>Shane Chung</b><br>sound <b>Eli Han</b><br>starring <b>Mantra Radhakrishnan</b> and <b>Manish Shah</b><br><br>4K color<br>short film<br>2025",
     ],
     centeragain: "International South Asian Film Festival Canada 2025<br>Chicago South Asian Film Festival 2025<br>Make News, presented by Minorities in Film, NY/LA/ATL 2025",
     images: [
@@ -175,7 +175,7 @@ let projects = [
     centeralign:
       "A woman finds a mysterious video discussing the female eating habits of a dystopian society.",
     leftalign: [
-      "writer/director <b>Erin Zhang</b><br>producers <b>Tanisha Tekriwal</b> and <b>Sofia Veraza</b><br>cinematography <b>Mylvaganam</b> and <b>Haoshu Sascha Deng</b>, gaffer <b>Tej Narayanan</b><br><br>4K color, stopmotion<br>short film<br>2022",
+      "writer/director <b>Erin Zhang</b><br>producers <b>Tanisha Tekriwal</b> and <b>Sofia Veraza</b><br>cinematography <b>Amelia Mylvaganam</b> and <b>Haoshu Sascha Deng</b>, gaffer <b>Tej Narayanan</b><br><br>4K color, stopmotion<br>short film<br>2022",
     ],
     centeragain:
       "<a href='https://www.atlantafilmfestival.com/film-guide-2023' target='_blank'>Atlanta Film Festival 2023</a><br><a href ='https://dailynorthwestern.com/2022/05/24/ae/shelf-life-goes-small-scale-for-the-big-screen-student-produced-film-uses-stop-motion-to-fit-its-set-on-pool-table/' target='_blank'>Daily Northwestern article</a>",
@@ -189,7 +189,7 @@ let projects = [
     centeralign:
       "When two siblings find themselves trapped in a strange motel, they are forced to reconsider and repair their relationship.",
     leftalign: [
-      "writer/director <b>Tanisha Tekriwal</b><br>producers <b>Eli Han</b> and <b>Caroline Bates</b><br>cinematography <b>Mylvaganam</b>, gaffer <b>Xanthe Brown</b><br>starring <b>Mantra Radhakrishnan</b> and <b>Mirrat</b><br><br>2K color<br>short film<br>2022",
+      "writer/director <b>Tanisha Tekriwal</b><br>producers <b>Eli Han</b> and <b>Caroline Bates</b><br>cinematography <b>Amelia Mylvaganam</b>, gaffer <b>Xanthe Brown</b><br>starring <b>Mantra Radhakrishnan</b> and <b>Mirrat</b><br><br>2K color<br>short film<br>2022",
     ],
     centeragain: "",
     images: [
@@ -258,7 +258,7 @@ let projects = [
     centeralign:
       "Two friends skateboard to a party while telling each other stories a la Eugene Lim.",
     leftalign: [
-      "recording/mixing <b>Mylvaganam</b><br>featuring <b>Eli Han</b> and <b>Mylvaganam</b><br><br>stereo mix<br>2022",
+      "recording/mixing <b>Mylvaganam</b><br>featuring <b>Eli Han</b> and <b>Amelia Mylvaganam</b><br><br>stereo mix<br>2022",
     ],
     centeragain: "",
     images: [],
