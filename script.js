@@ -289,6 +289,20 @@ let projects = [
     embedcode: "",
   },
   {
+    name: "travelling interior",
+    username: "travelling",
+    centeralign:
+      "An east coast roadtrip photozine. >featuring crinkle texture<",
+    leftalign: [
+      "20pgs<br>color print on crinkle paper, hand-bound with greenblue thread<br>oct 2025",
+    ],
+    centeragain:
+      "contact me for delivery info 💌",
+    images: [
+    ],
+    embedcode: "",
+  },
+  {
     name: "Dear journal,",
     username: "journal",
     centeralign:
