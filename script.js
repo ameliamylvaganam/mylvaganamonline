@@ -111,7 +111,7 @@ let projects = [
       "<img loading='lazy' src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/inremembrance6.jpg?v=1707635520994' alt='still from In Remembrance of a Bottle'>",
       "<img loading='lazy' src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/inremembrance7.jpg?v=1707635521476' alt='still from In Remembrance of a Bottle'>",
     ],
-    embedcode: "",
+    embedcode: '<iframe width="560" height="315" src="https://www.youtube.com/embed/BxJXnDZxaQI?si=1YOtuw3agNcw6v7q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>',
   },
   {
     name: "Humdrum Ecstasy",
