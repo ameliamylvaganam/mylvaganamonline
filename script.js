@@ -292,7 +292,7 @@ let projects = [
     name: "travelling interior",
     username: "travelling",
     centeralign:
-      "An east coast roadtrip photozine. >featuring crinkle texture<",
+      "An east coast roadtrip photozine.",
     leftalign: [
       "20pgs<br>color print on crinkle paper, hand-bound with greenblue thread<br>oct 2025",
     ],
