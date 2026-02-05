@@ -449,8 +449,8 @@ function initMain() {
     document.getElementById("about").innerHTML +
     about[0].image +
     about[0].blurb +
-    about[0].footer +
-    about[0].contact;
+    about[0].contact +
+    about[0].footer;
 
   //project list content
   for (let i = 0; i < projects.length; i++) {
