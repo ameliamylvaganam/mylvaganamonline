@@ -89,7 +89,7 @@ let projects = [
     centeragain:
       "Old Town New Films 2025<br>Kansas City Underground Film Festival 2024<br>Blow-up Arthouse Film Festival Semi-Finalist 2024<br>Sweet Void Cinema 2023",
     images: [
-      "<img loading='lazy' src='subpages/assets/dreamlogic23.jpg' alt='Dreamlogic poster'>"
+      `<img loading='lazy' src='subpages/assets/dreamlogic169.jpg' alt='Dreamlogic 16:9 poster'>`
     ],
     embedcode: "",
     leftagain: "<br>While in covid isolation in 2021, I went to the empty park across from my apartment every day at sunset. Over those 10 days, I noticed subtle changes in the landscape - the rapid emergence and life cycle of dandelions, a growing swarm of leafy green weeds, the blooming of small purple flowers in bunches. Much like these elements I wouldn’t have noticed without the recurring trip, in its inception I wanted Dreamlogic to challenge the audience to intensely immerse themselves into a landscape, so intensely that they notice the most subtle of changes, such as the wind displacing hairs. Some parts of the film are more drastic in their movement, but even through the shots with more action, the creeping pace of time is noticeable, daring the audience to give the film their undivided attention. The film carries the audience through waves of sensation, building tension and releasing it with catharsis.<br><br>Many of these shots came to me in my dreams, that is, I had an experience from a particular point of view, and once awake I longed to recreate that unique visual perspective for others to see.<br><br>Dreamlogic craves to hold your attention, and I hope you'll let it.",
