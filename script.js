@@ -133,7 +133,7 @@ let projects = [
     centeralign:
       "Dreamhotline follows Tara, a ‘Voice Model’ at DuaHotline, a call service that replicates the voices of deceased loved ones. Tara struggles to make ends meet but is reluctant to seek help from her taunting father. When Rajesh Tiwari, a wealthy man who also happens to be the father of DuaHotline’s creator, seeks Tara out to replicate the voice of his estranged living daughter Khwab, Tara is conflicted but decides to help because she needs the money. Both Rajesh and Tara fall into a pattern of using each other as placeholders for their respective strained relationships. As Rajesh demands more and more from Tara, she begins to question the sincerity of his motives and rethink what it really means to “make a Dua.”",
     leftalign: [
-      "writer/director <b>Tanisha Tekriwal</b><br>producers <b>Shay Park</b> and <b>Stephanie Xu</b><br>cinematography <b>Amelia Mylvaganam</b>, gaffer <b>Shane Chung</b><br>sound <b>Eli Han</b><br>starring <b>Mantra Radhakrishnan</b> and <b>Manish Shah</b><br><br>4K color<br>short film<br>2025<br>15mins",
+      "writer/director <b>Tanisha Tekriwal</b><br>producers <b>Shay Park</b> and <b>Stephanie Xu</b><br>cinematography <b>Amelia Mylvaganam</b>, gaffer <b>Shane Chung</b><br>sound <b>Eli Han</b><br>starring <b>Mantra Radhakrishnan</b> and <b>Manish Shah</b><br><br>4K color<br>2025<br>15mins",
     ],
     centeragain: "International South Asian Film Festival Canada 2025<br>Chicago South Asian Film Festival 2025<br>Make News, presented by Minorities in Film, NY/LA/ATL 2025",
     images: [
