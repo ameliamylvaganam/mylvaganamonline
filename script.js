@@ -473,9 +473,9 @@ function initMain() {
       //   newline = "<br><section class='titles'>WRITING</section>";
     } else if (i == 10) {
       newline = "<br><section class='titles'>PHOTO</section>";
-    } else if (i == 11) {
+    } else if (i == 12) {
       newline = "<br><section class='titles'>CODE </section>";
-    } else if (i == 13) {
+    } else if (i == 14) {
       newline = "<br><br>";
     }
 
