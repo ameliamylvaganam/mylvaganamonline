@@ -10,7 +10,7 @@ let about = [
       <img src="https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/meid.jpg?v=1707518188987" alt="High-contrast image of Mylvaganam looking directly into camera" width="105.4" height="141.6"/><br><br>`,
     blurb: "Exploratory and expansive, Amelia Mylvaganam aims to find hidden worlds in the cracks and glimmers of this one. With a background in computer science, her films and new media work examine digitality and other intimacies. She is currently based in Washington, DC and she likes herself best when she’s passionate.",
     contact:
-      `<br><br>most films are watchable on <a href='https://amathus.vhx.tv/' target='_blank'>amathus</a>
+      `<br><br>most films are watchable on <a href='https://amathus.vhx.tv/' target='_blank'>amathus</a> or feel free to contact me for screening links
       <br><a href='mailto:mylvaganamamelia@gmail.com'>mylvaganamamelia@gmail.com</a>
       &nbsp;&nbsp;&nbsp;&nbsp;<a target=_blank href='https://www.youtube.com/@Myylvaganam'>youtube</a>
       &nbsp;&nbsp;&nbsp;&nbsp;<a href='https://letterboxd.com/director/amelia-mylvaganam/' target='_blank'>letterboxd</a>
@@ -46,7 +46,7 @@ let projects = [
       `film <b>Amelia Mylvaganam</b><br>poem: Hands by <b>Sophia Naz</b><br>composition: track 8, indigo lake by <b>ballet moshers</b><br><br>mix of archival, digital, 16mm, and super 8 on video<br>2025<br>4mins`,
     ],
     centeragain: "Old Town New Films 2025<br>Matwaala x South Asia Institute Mehfilm Festival 2025",
-    images: [],
+    images: [`<img loading='lazy' src='subpages/assets/hands169.jpg' alt='Hands 16:9 poster'>`],
     embedcode: `<iframe width="560" height="315" src="https://www.youtube.com/embed/yhyp0RA0bR4?si=NnVUW8DfxDgtoXaz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>`,
     leftagain: "",
     /*embedcode: "<iframe width='560' height='315' src='https://www.youtube.com/embed/FMvfHjnn70Y?si=WQ73J_ppZuBr_kP8' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>",*/
@@ -60,7 +60,7 @@ let projects = [
       "camera & editing <b>Amelia Mylvaganam</b><br>sound recording & featuring <b>Eli Han</b><br><br>super 8 on video<br>2025<br>49sec",
     ],
     centeragain: "Rhizome DC x Filament: A Night of Moving Images 2025<br>Moonlighters #3 2025",
-    images: ["<img loading='lazy' src='https://metalabel.imgix.net/QmRLMMHwnLovMC9r71jJhKBhNxMRnpjxXYxo1Hga7ofqLv?bg=ffffff&w=3840&fit=min&auto=format' alt='title still from Chiu Quon'>",],
+    images: [`<img loading='lazy' src='subpages/assets/chiuquon169.jpg' alt='Chiu Quon 16:9 poster'>`],
     embedcode: `<iframe width="560" height="315" src="https://www.youtube.com/embed/FMvfHjnn70Y?si=e98494pgd_kh8W7n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>`,
     leftagain: "<br>A Super 8 postcard of a place. Eli Han stars in this bustling morning scene at a small Chinese bakery in Chicago: Chiu Quon Bakery 超群茶餐廳 on Argyle Street.<br><br>Eli and I have been going to Chiu Quon every so often for a few years now, switching colors on the cta for the promise of cheap, cash-only goodies. After I left Chicagoland, Eli moved closer to Chiu Quon, and their bakery visits became walkable and more frequent than \"every so often\". I visited Eli in Chicago in early 2024 and filmed our visit there.<br><br>About a year later, I revisited the footage and asked Eli to record sound for me. They recorded the atmospheric bustle, the sounds of ordering, the crinkle of pastry being packaged. I layered it upon itself, with other things too (there's an easter egg in there for my DC friends). Eli's biggest note when I sent them the first cut was \"I miss like... the loud-ass sound of the refrigerators?\" So I added it back in, and it felt a lot homier, like how it feels inside Chiu Quon.<br><br>Chiu Quon is a film that meshes my senses of home, intertwining who&where I used to be with who&where I am now. No matter how I change, I know I can return to Chiu Quon and enjoy a 叉烧包 (bbq pork bun) that I wish had a little more filling, but tastes like home.",
     /*embedcode: "<iframe width='560' height='315' src='https://www.youtube.com/embed/FMvfHjnn70Y?si=WQ73J_ppZuBr_kP8' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>",*/
@@ -104,12 +104,7 @@ let projects = [
     ],
     centeragain: "Winnipeg Underground Film Festival 2024<br>Rhizome DC x Filament 2024<br>Sweet Void Cinema 2024",
     images: [
-      "<img loading='lazy' src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/inremembrance1.jpg?v=1707635511975' alt='still from In Remembrance of a Bottle'>",
-      "<img loading='lazy' src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/inremembrance2.jpg?v=1707635512333' alt='still from In Remembrance of a Bottle'>",
-      "<img loading='lazy' src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/inremembrance5.jpg?v=1707635520563' alt='still from In Remembrance of a Bottle'>",
-      "<img loading='lazy' src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/inremembrance4.jpg?v=1707635520113' alt='still from In Remembrance of a Bottle'>",
-      "<img loading='lazy' src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/inremembrance6.jpg?v=1707635520994' alt='still from In Remembrance of a Bottle'>",
-      "<img loading='lazy' src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/inremembrance7.jpg?v=1707635521476' alt='still from In Remembrance of a Bottle'>",
+      `<img loading='lazy' src='subpages/assets/inremembrance169.jpg' alt='In Remembrance of a Bottle 16:9 poster'>`
     ],
     embedcode: '<iframe width="560" height="315" src="https://www.youtube.com/embed/BxJXnDZxaQI?si=1YOtuw3agNcw6v7q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>',
   },
