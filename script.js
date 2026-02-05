@@ -82,7 +82,7 @@ let projects = [
     name: "Dreamlogic",
     username: "dreamlogic",
     centeralign:
-      "A series of glimpses into the collision of M and J, creating something ephemeral, tender, and beyond description.",
+      "A series of glimpses into the collision of M and J.",
     leftalign: [
       "director/editor <b>Amelia Mylvaganam</b><br>producers <b>Eli Han</b> and <b>İsmet Mert Küçüker</b><br>director of photography <b>Haoshu Sascha Deng</b><br>composition <b>ballet moshers</b><br>starring <b>Jacky Herrera</b> and <b>Maira Walker</b><br><br>16mm color on video<br>2023<br>14mins",
     ],
