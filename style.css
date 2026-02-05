@@ -68,10 +68,9 @@ marquee {
 
 #footer {
   font-size: 80%;
-  position: absolute;
-  bottom: 0;
   height: 2rem;
   font-style: italic;
+  margin-top: 2rem;
 }
 
 #footer-wrap {
