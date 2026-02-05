@@ -283,8 +283,9 @@ let projects = [
     centeragain:
       "stocked at <a href='https://peoplesbooktakoma.com/' target='_blank'>People's Book</a> in Takoma Park, MD<br>or, contact me for delivery info 💌",
     images: [
-      "<img loading='lazy' src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/IMG_0051.JPG?v=1731452021399' alt='four copies of tops zine'>",
-      "<img loading='lazy' src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/IMG_0047.JPG?v=1731452024463' alt='a spread from tops zine'>",
+      `<img loading='lazy' src='subpages/assets/tops1.jpg' alt='four copies of tops zine'>`,
+      `<img loading='lazy' src='subpages/assets/tops2.jpg' alt='Ginny poses next to Ginny spread from tops zine'>`,
+      `<img loading='lazy' src='subpages/assets/tops3.jpg' alt='Kyra spread from tops zine'>`
     ],
     embedcode: "",
   },
@@ -299,6 +300,7 @@ let projects = [
     centeragain:
       "contact me for delivery info 💌",
     images: [
+      `<img loading='lazy' src='subpages/assets/travelling.jpg' alt='travelling interior zine on table'>`
     ],
     embedcode: "",
   },
