@@ -42,7 +42,7 @@ let projects = [
     ],
     centeragain: "Old Town New Films 2025<br>Matwaala x South Asia Institute Mehfilm Festival 2025",
     images: [],
-    embedcode: "<iframe width="560" height="315" src="https://www.youtube.com/embed/yhyp0RA0bR4?si=NnVUW8DfxDgtoXaz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>",
+    embedcode: `<iframe width="560" height="315" src="https://www.youtube.com/embed/yhyp0RA0bR4?si=NnVUW8DfxDgtoXaz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>`,
     leftagain: "",
     /*embedcode: "<iframe width='560' height='315' src='https://www.youtube.com/embed/FMvfHjnn70Y?si=WQ73J_ppZuBr_kP8' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>",*/
   },
