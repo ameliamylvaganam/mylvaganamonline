@@ -456,13 +456,13 @@ function initMain() {
         "<section class='titles'>MY FILMS</section>";
     } else if (i == 6) {
       newline = "<br><section class='titles'>CINEMATOGRAPHY</section>";
-    } else if (i == 11) {
+    } else if (i == 10) {
       newline = "<br><section class='titles'>PHOTO/WRITING</section>";
-    } else if (i == 13) {
+    } else if (i == 12) {
       newline = "<br><section class='titles'>CODE </section>";
-    } else if (i == 15) {
-      newline = "<br><br>";
-    }
+    // } else if (i == 15) {
+    //   newline = "<br><br>";
+    // }
 
     // if (i==0){
     //   newline =
