@@ -71,7 +71,7 @@ let projects = [
     centeralign:
       "A daughter documents her family’s negotiations with gravity as their Christmas tree begins to fall.",
     leftalign: [
-      "camera & editing <b>Amelia Mylvaganam</b><br>featuring <b>Myla</b>, <b>Em</b>, <b>Agnes</b>, and <b>Chandran</b><br><br>HD color<br>2025<br>14mins",
+      `camera & editing <b>Amelia Mylvaganam</b><br>featuring <b>Myla</b>, <b>Em</b>, <b>Agnes</b>, and <b>Chandran</b><br><br>HD color<br>2025<br>14mins`,
     ],
     centeragain: "",
     images: [`<img loading='lazy' src='subpages/assets/balsam169.jpg' alt='balsam x fraser fir hybrid 16:9 poster'>`],
@@ -114,7 +114,7 @@ let projects = [
     centeralign:
       "Two friends skateboard to a party while telling each other stories a la Eugene Lim.",
     leftalign: [
-      "recording/mixing <b>Amelia Mylvaganam</b><br>featuring <b>Eli Han</b> and <b>Amelia Mylvaganam</b><br><br>stereo mix<br>2022",
+      `recording/mixing <b>Amelia Mylvaganam</b><br>featuring <b>Eli Han</b> and <b>Amelia Mylvaganam</b><br><br>stereo mix<br>2022`,
     ],
     centeragain: "",
     images: [],
