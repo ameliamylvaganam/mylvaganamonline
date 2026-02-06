@@ -460,7 +460,7 @@ function initMain() {
 
   //project list content
   for (let i = 0; i < projects.length; i++) {
-    if (i == 13 || i == 14){continue} // skipping loop to avoid photog pg in the proj list
+    if (i == 16 || i == 17){continue} // skipping loop to avoid photog pg in the proj list
     let newline = "";
     if (i == 0) {
       newline =
