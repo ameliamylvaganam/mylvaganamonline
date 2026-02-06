@@ -460,7 +460,7 @@ function initMain() {
       newline = "<br><section class='titles'>PHOTO/WRITING</section>";
     } else if (i == 12) {
       newline = "<br><section class='titles'>CODE </section>";
-
+    }
     // if (i==0){
     //   newline =
     //   newline +
