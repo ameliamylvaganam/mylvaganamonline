@@ -372,16 +372,16 @@ let projects = [
 `
   },
 
-  {
-    name: "",
-    username: "photo",
-    centeralign:
-      "Below is a sampling of my photo work. Contact me at mylvaganamamelia@gmail.com for any photo inquiries.",
-    leftalign: [],
-    centeragain: "",
-    images: [],
-    embedcode: "<div id='photoportstack'><img loading='lazy' class='photoport' src='subpages/assets/photo1.jpg' alt='photography sample'/><img loading='lazy' class='photoport' src='subpages/assets/photo2.jpg' alt='photography sample'/><img loading='lazy' class='photoport' src='subpages/assets/photo3.jpg' alt='photography sample'/><img loading='lazy' class='photoport neighborvert' src='subpages/assets/photo4.jpg' alt='photography sample'/><img loading='lazy' class='photoport vert' src='subpages/assets/photo5.jpg' alt='photography sample'/><img loading='lazy' class='photoport neighborvert' src='subpages/assets/photo6.jpg' alt='photography sample'/><img loading='lazy' class='photoport' src='subpages/assets/photo7.jpg' alt='photography sample'/><img loading='lazy' class='photoport' src='subpages/assets/photo8.jpg' alt='photography sample'/><img loading='lazy' class='photoport' src='subpages/assets/photo9.jpg' alt='photography sample'/></div>"
-  },
+  // {
+  //   name: "",
+  //   username: "photo",
+  //   centeralign:
+  //     "Below is a sampling of my photo work. Contact me at mylvaganamamelia@gmail.com for any photo inquiries.",
+  //   leftalign: [],
+  //   centeragain: "",
+  //   images: [],
+  //   embedcode: "<div id='photoportstack'><img loading='lazy' class='photoport' src='subpages/assets/photo1.jpg' alt='photography sample'/><img loading='lazy' class='photoport' src='subpages/assets/photo2.jpg' alt='photography sample'/><img loading='lazy' class='photoport' src='subpages/assets/photo3.jpg' alt='photography sample'/><img loading='lazy' class='photoport neighborvert' src='subpages/assets/photo4.jpg' alt='photography sample'/><img loading='lazy' class='photoport vert' src='subpages/assets/photo5.jpg' alt='photography sample'/><img loading='lazy' class='photoport neighborvert' src='subpages/assets/photo6.jpg' alt='photography sample'/><img loading='lazy' class='photoport' src='subpages/assets/photo7.jpg' alt='photography sample'/><img loading='lazy' class='photoport' src='subpages/assets/photo8.jpg' alt='photography sample'/><img loading='lazy' class='photoport' src='subpages/assets/photo9.jpg' alt='photography sample'/></div>"
+  // },
 
   // {
   //   name: "19 and a half",
@@ -449,7 +449,7 @@ function initMain() {
 
   //project list content
   for (let i = 0; i < projects.length; i++) {
-    if (i == 15 || i==14){continue} // skipping loop to avoid nga and tatter in the list
+    // if (i == 15 || i==14){continue} // skipping loop to avoid nga and tatter in the list
     let newline = "";
     if (i == 0) {
       newline =
@@ -460,9 +460,6 @@ function initMain() {
       newline = "<br><section class='titles'>PHOTO/WRITING</section>";
     } else if (i == 12) {
       newline = "<br><section class='titles'>CODE </section>";
-    // } else if (i == 15) {
-    //   newline = "<br><br>";
-    // }
 
     // if (i==0){
     //   newline =
