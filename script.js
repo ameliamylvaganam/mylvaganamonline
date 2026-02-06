@@ -453,7 +453,7 @@ function initMain() {
     let newline = "";
     if (i == 0) {
       newline =
-        "<section class='titles'>MY FILMS</section>";
+        "<section class='titles'>SOME OF MY FILMS</section>";
     } else if (i == 6) {
       newline = "<br><section class='titles'>CINEMATOGRAPHY</section>";
     } else if (i == 10) {
