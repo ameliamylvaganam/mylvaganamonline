@@ -7,7 +7,7 @@ let about = [
   {
     image:
       `
-      <img src="https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/meid.jpg?v=1707518188987" alt="High-contrast image of Mylvaganam looking directly into camera" width="105.4" height="141.6"/><br><br>`,
+      <img src="subpages/assets/aboutimage.jpg" alt="High-contrast image of Mylvaganam looking directly into camera" width="105.4" height="141.6"/><br><br>`,
     blurb: "Exploratory and expansive, Amelia Mylvaganam aims to find hidden worlds in the cracks and glimmers of this one. With a background in computer science, her films and new media work examine digitality and other intimacies. She is currently based in Washington, DC and she likes herself best when she’s passionate.",
     contact:
       `<br><br>most films are watchable on <a href='https://amathus.vhx.tv/' target='_blank'>amathus</a>. alternatively, feel free to contact me for screening links
