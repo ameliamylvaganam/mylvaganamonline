@@ -65,19 +65,19 @@ let projects = [
     leftagain: "<br>A Super 8 postcard of a place. Eli Han stars in this bustling morning scene at a small Chinese bakery in Chicago: Chiu Quon Bakery 超群茶餐廳 on Argyle Street.<br><br>Eli and I have been going to Chiu Quon every so often for a few years now, switching colors on the cta for the promise of cheap, cash-only goodies. After I left Chicagoland, Eli moved closer to Chiu Quon, and their bakery visits became walkable and more frequent than \"every so often\". I visited Eli in Chicago in early 2024 and filmed our visit there.<br><br>About a year later, I revisited the footage and asked Eli to record sound for me. They recorded the atmospheric bustle, the sounds of ordering, the crinkle of pastry being packaged. I layered it upon itself, with other things too (there's an easter egg in there for my DC friends). Eli's biggest note when I sent them the first cut was \"I miss like... the loud-ass sound of the refrigerators?\" So I added it back in, and it felt a lot homier, like how it feels inside Chiu Quon.<br><br>Chiu Quon is a film that meshes my senses of home, intertwining who&where I used to be with who&where I am now. No matter how I change, I know I can return to Chiu Quon and enjoy a 叉烧包 (bbq pork bun) that I wish had a little more filling, but tastes like home.",
     /*embedcode: "<iframe width='560' height='315' src='https://www.youtube.com/embed/FMvfHjnn70Y?si=WQ73J_ppZuBr_kP8' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>",*/
   },
-  // {
-  //   name: "balsam x fraser fir hybrid",
-  //   username: "balsam",
-  //   centeralign:
-  //     "A home video following the trials and laughs of a family attempting to balance a falling Christmas tree.",
-  //   leftalign: [
-  //     "camera and editing <b>Mylvaganam</b><br>featuring <b>Myla</b>, <b>Em</b>, <b>Agnes</b>, and <b>Chandran</b><br><br>HD color<br>2025<br>14mins",
-  //   ],
-  //   centeragain: "",
-  //   images: [],
-  //   embedcode: "",
-  //   /*embedcode: "<iframe width='560' height='315' src='https://www.youtube.com/embed/vdhioPq2tUY?si=yDrY3adcR9rNUkMr' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>",*/
-  // },
+  {
+    name: "balsam x fraser fir hybrid",
+    username: "balsam",
+    centeralign:
+      "A daughter documents her family’s negotiations with gravity as their Christmas tree begins to fall.",
+    leftalign: [
+      "camera & editing <b>Amelia Mylvaganam</b><br>featuring <b>Myla</b>, <b>Em</b>, <b>Agnes</b>, and <b>Chandran</b><br><br>HD color<br>2025<br>14mins",
+    ],
+    centeragain: "",
+    images: [`<img loading='lazy' src='subpages/assets/balsam169.jpg' alt='balsam x fraser fir hybrid 16:9 poster'>`],
+    embedcode: "",
+    /*embedcode: "<iframe width='560' height='315' src='https://www.youtube.com/embed/vdhioPq2tUY?si=yDrY3adcR9rNUkMr' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>",*/
+  },
   {
     name: "Dreamlogic",
     username: "dreamlogic",
@@ -107,6 +107,19 @@ let projects = [
       `<img loading='lazy' src='subpages/assets/inremembrance169.jpg' alt='In Remembrance of a Bottle 16:9 poster'>`
     ],
     embedcode: '<iframe width="560" height="315" src="https://www.youtube.com/embed/BxJXnDZxaQI?si=1YOtuw3agNcw6v7q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>',
+  },
+  {
+    name: "skateaway",
+    username: "skateaway",
+    centeralign:
+      "Two friends skateboard to a party while telling each other stories a la Eugene Lim.",
+    leftalign: [
+      "recording/mixing <b>Amelia Mylvaganam</b><br>featuring <b>Eli Han</b> and <b>Amelia Mylvaganam</b><br><br>stereo mix<br>2022",
+    ],
+    centeragain: "",
+    images: [],
+    embedcode:
+      "<iframe width='315' height='315' src='https://www.youtube.com/embed/Sht0H3Idgf8?si=zPMyZKGj78XINQSx' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
   },
   {
     name: "Humdrum Ecstasy",
@@ -247,31 +260,7 @@ let projects = [
     embedcode:
       "<iframe title='vimeo-player' src='https://player.vimeo.com/video/538700142?h=8ca0d7089f' width='640' height='360' frameborder='0'    allowfullscreen></iframe>",
   },*/
- {
-    name: "skateaway",
-    username: "skateaway",
-    centeralign:
-      "Two friends skateboard to a party while telling each other stories a la Eugene Lim.",
-    leftalign: [
-      "recording/mixing <b>Mylvaganam</b><br>featuring <b>Eli Han</b> and <b>Amelia Mylvaganam</b><br><br>stereo mix<br>2022",
-    ],
-    centeragain: "",
-    images: [],
-    embedcode:
-      "<iframe width='315' height='315' src='https://www.youtube.com/embed/Sht0H3Idgf8?si=zPMyZKGj78XINQSx' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
-  },
- {
-    name: "more",
-    username: "more",
-    centeralign:
-      "<a href='https://www.youtube.com/@myylvaganam/videos' target=_blank>click here for more personal films</a>",
-    leftalign: "",
-    centeragain:
-      "things I make from a need to make something... things I make to make sense of things.<br>here's one from fall 2023 with my mom:",
-    images: [],
-    embedcode:
-      "<iframe width='560' height='315' src='https://www.youtube.com/embed/O3w16eY9WjQ?si=dipZXb15B3R-d080' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>",
-  },
+ 
   {
     name: "tops",
     username: "tops",
@@ -460,24 +449,18 @@ function initMain() {
 
   //project list content
   for (let i = 0; i < projects.length; i++) {
-    if (i == 15 || i==14){continue} // skipping loop to avoid photog pg in the proj list
+    if (i == 15 || i==14){continue} // skipping loop to avoid nga and tatter in the list
     let newline = "";
     if (i == 0) {
       newline =
-        "<section class='titles'>FILM</section>";
-    } else if (i == 4) {
-      newline = "<br><section class='subtitles'>CINEMATOGRAPHY</section>";
-    } else if (i == 8) {
-      newline = "<br><section class='subtitles'>PERSONAL</section>";
-    /*} else if (i == 15) {
-      newline = "<br><section class='subtitles'>SOUND</section>";*/
-      // } else if (i == 12) {
-      //   newline = "<br><section class='titles'>WRITING</section>";
-    } else if (i == 10) {
-      newline = "<br><section class='titles'>PHOTO</section>";
-    } else if (i == 12) {
+        "<section class='titles'>MY FILMS</section>";
+    } else if (i == 6) {
+      newline = "<br><section class='titles'>CINEMATOGRAPHY</section>";
+    } else if (i == 11) {
+      newline = "<br><section class='titles'>PHOTO/WRITING</section>";
+    } else if (i == 13) {
       newline = "<br><section class='titles'>CODE </section>";
-    } else if (i == 14) {
+    } else if (i == 15) {
       newline = "<br><br>";
     }
 
