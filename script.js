@@ -10,7 +10,7 @@ let about = [
       <img src="subpages/assets/aboutimage.jpg" alt="High-contrast image of Mylvaganam looking directly into camera" width="105.4" height="141.6"/><br><br>`,
     blurb: "Amelia Mylvaganam is a filmmaker, etc. hoping to find the hidden worlds in the cracks and glimmers of this one. She is currently based in Washington, DC and she likes herself best when she’s passionate.",
     contact:
-      `<br><br>most films are watchable on <a href='https://amathus.vhx.tv/' target='_blank'>amathus</a>. alternatively, feel free to contact me for screening links
+      `<br><br>this site is a selection of some things I've made or worked on. please contact me if looking for info about a project that is not listed.<br><br>most films are watchable on <a href='https://amathus.vhx.tv/' target='_blank'>amathus</a>. alternatively, feel free to contact me for screening links.
       <br><a href='mailto:mylvaganamamelia@gmail.com'>mylvaganamamelia@gmail.com</a>
       &nbsp;&nbsp;&nbsp;&nbsp;<a target=_blank href='https://www.youtube.com/@Myylvaganam'>youtube</a>
       &nbsp;&nbsp;&nbsp;&nbsp;<a href='https://letterboxd.com/director/amelia-mylvaganam/' target='_blank'>letterboxd</a>
