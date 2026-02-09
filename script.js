@@ -450,10 +450,10 @@ function initMain() {
   //project list content
   for (let i = 0; i < projects.length; i++) {
     if (i == 15 || i==14){continue} // skipping loop to avoid nga and tatter in the list
-    let newline = "";
+    let newline = "<section class='titles'>SOME OF MY...</section>";
     if (i == 0) {
       newline =
-        "<section class='titles'>SOME OF MY FILMS</section>";
+        "<br><section class='titles'>FILMS</section>";
     } else if (i == 6) {
       newline = "<br><section class='titles'>CINEMATOGRAPHY</section>";
     } else if (i == 10) {
