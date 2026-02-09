@@ -448,9 +448,11 @@ function initMain() {
     about[0].footer;
 
   //project list content
+  document.getElementById("projects").innerHTML =
+      document.getElementById("projects").innerHTML + "<section class='titles'>SOME OF MY...</section>";
   for (let i = 0; i < projects.length; i++) {
     if (i == 15 || i==14){continue} // skipping loop to avoid nga and tatter in the list
-    let newline = "<section class='titles'>SOME OF MY...</section>";
+    let newline = "";
     if (i == 0) {
       newline =
         "<br><section class='titles'>FILMS</section>";
