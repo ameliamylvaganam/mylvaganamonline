@@ -39,13 +39,12 @@ let projects = [
     centeralign:
       `You are certain. You are changing. You are exactly the same.
       <br>
-      A collage film made for <a href='https://www.instagram.com/reel/DOhIPbyiXeX/?utm_source=ig_web_copy_link'>Matwaala's Mehfilm Festival</a>.
-      <br>
+      
       (photosensitivity warning: contains flicker)`,
     leftalign: [
       `film <b>Amelia Mylvaganam</b><br>poem: Hands by <b>Sophia Naz</b><br>composition: track 8, indigo lake by <b>ballet moshers</b><br><br>mix of archival, digital, 16mm, and super 8 on video<br>2025<br>4mins`,
     ],
-    centeragain: "Old Town New Films 2025<br>Matwaala x South Asia Institute Mehfilm Festival 2025",
+    centeragain: "Winnipeg Underground Film Festival 2026<br>Old Town New Films 2025<br>Matwaala x South Asia Institute Mehfilm Festival 2025",
     images: [`<img loading='lazy' src='subpages/assets/hands169.jpg' alt='Hands 16:9 poster'>`],
     // embedcode: `<iframe width="560" height="315" src="https://www.youtube.com/embed/yhyp0RA0bR4?si=NnVUW8DfxDgtoXaz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>`,
     leftagain: "",
@@ -102,7 +101,7 @@ let projects = [
     leftalign: [
       "director/editor <b>Amelia Mylvaganam</b><br>production <b>Dreamlogic team</b><br><br>16mm color on video<br>2023<br>87sec",
     ],
-    centeragain: "Winnipeg Underground Film Festival 2024<br>Rhizome DC x Filament 2024<br>Sweet Void Cinema 2024",
+    centeragain: "Cathedral Village Arts Festival 2026<br>Winnipeg Underground Film Festival 2024<br>Rhizome DC x Filament 2024<br>Sweet Void Cinema 2024",
     images: [
       `<img loading='lazy' src='subpages/assets/inremembrance169.jpg' alt='In Remembrance of a Bottle 16:9 poster'>`
     ],
