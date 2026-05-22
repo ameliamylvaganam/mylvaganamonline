@@ -264,7 +264,7 @@ let projects = [
     name: "tops",
     username: "tops",
     centeralign:
-      "A pocket zine of images taken with my blindcam, a screen-less and preview-less point-and-shoot I've had since the 4th grade.",
+      "A pocket photozine of the homies taken with the broken-screen point-and-shoot I've had since the 4th grade.",
     leftalign: [
       "24pgs<br>color print on white paper with sticker detail<br>sept 2024",
     ],
@@ -281,7 +281,7 @@ let projects = [
     name: "travelling interior",
     username: "travelling",
     centeralign:
-      "An east coast roadtrip photozine.",
+      "A lovers east coast roadtrip photozine. Includes lyrics to imaginary music.",
     leftalign: [
       "20pgs<br>color print on crinkle paper, hand-bound with greenblue thread<br>oct 2025",
     ],
