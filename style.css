@@ -62,10 +62,6 @@ marquee {
   display: none;
 }
 
-.textblock #homepg {
-  display: block;
-}
-
 .textblock div:target {
   display: block;
 }
