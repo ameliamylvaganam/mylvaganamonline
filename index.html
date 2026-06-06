@@ -28,17 +28,16 @@
       console.log(
         "https://youtu.be/uRQ7ecvU56k?si=pWeEgoeWR3A4OKvV"
       );
-      window.onload = () => {
+      window.addEventListener('load', () => {
         initMain();
         //loading my homepg text
-        window.addEventListener('load', () => {
-          const link = document.getElementById('homepg');
-          if (link)
-          {
-            link.click();
-          }
+        const link = document.getElementById('homepg');
+        if (link)
+        {
+          link.click();
         }
-      )};
+      }
+      );
     </script>
 
     <title>Mylvaganam is online</title>
