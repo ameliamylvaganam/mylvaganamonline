@@ -437,6 +437,7 @@ function imFeelingLucky() {
 function initHomePg() {
   let homepglink = document.getElementById("homepg");
   homepglink.click();
+  console.log("link clicked!")
 }
 
 function initMain() {
