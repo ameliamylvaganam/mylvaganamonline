@@ -31,7 +31,8 @@ let homepg = [
     it's live and ongoing; take a listen and consider contributing your own clip.
     <br><br>
     &lt;# Amelia`,
-  },];
+  },
+];
 
 let projects = [
  /* {
