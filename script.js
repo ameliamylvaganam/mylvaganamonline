@@ -129,14 +129,15 @@ let projects = [
       "writer/director <b>Haoshu Sascha Deng</b><br>producers <b>Andrew Kline</b> and <b>Sophia Pedro Torres</b><br>cinematography <b>Amelia Mylvaganam</b><br>sound <b>Wes Park</b><br>starring <b>JG Singhal</b> and <b>Eli Han</b><br><br>2K B&W<br>short film<br>2025",
     ],
     centeragain: "Kansas City Underground Film Festival 2025<br>Midwest Film Festival Roadshow 2025<br>Bronze Age Film Co-Op x Kiosk 2025",
-    // images: [
-    //   "<img loading='lazy' src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/humdrum1?v=1707525894876' alt='still from Humdrum Ecstasy'>",
-    //   "<img loading='lazy' src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/humdrum2?v=1707525906323' alt='still from Humdrum Ecstasy'>",
-    //   "<img loading='lazy' src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/humdrum4?v=1707525905931' alt='still from Humdrum Ecstasy'>",
-    //   "<img loading='lazy' src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/humdrum3?v=1707525901178' alt='still from Humdrum Ecstasy'>",
-    //   "<img loading='lazy' src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/humdrum6?v=1707545243960' alt='still from Humdrum Ecstasy'>",
-    //   "<img loading='lazy' src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/humdrum5?v=1707525905574' alt='still from Humdrum Ecstasy'>",
-    // ],
+    images: [],
+  /*  images:
+      "<img loading='lazy' src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/humdrum1?v=1707525894876' alt='still from Humdrum Ecstasy'>",
+      "<img loading='lazy' src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/humdrum2?v=1707525906323' alt='still from Humdrum Ecstasy'>",
+      "<img loading='lazy' src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/humdrum4?v=1707525905931' alt='still from Humdrum Ecstasy'>",
+      "<img loading='lazy' src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/humdrum3?v=1707525901178' alt='still from Humdrum Ecstasy'>",
+      "<img loading='lazy' src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/humdrum6?v=1707545243960' alt='still from Humdrum Ecstasy'>",
+      "<img loading='lazy' src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/humdrum5?v=1707525905574' alt='still from Humdrum Ecstasy'>",
+    ],*/
     embedcode:"<iframe width='560' height='315' src='https://player.vimeo.com/video/1083647259?h=37eb670d73' title='vimeo-player' frameborder='0' referrerpolicy='strict-origin-when-cross-origin' allow='accelerometer; autoplay; clipboard-write; encrypted-media; picture-in-picture' allowfullscreen></iframe>",
   },
   {
