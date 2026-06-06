@@ -452,7 +452,8 @@ function initMain() {
 
 
   //this is what i want on the homepg at opening
-  document.getElementById("homepg").innerHTML = homepg[0].text;
+  // document.getElementById("homepg").innerHTML = homepg[0].text;
+  document.getElementById("homepg").innerHTML = "test test text";
   
   //about content
   document.getElementById("about").innerHTML =
