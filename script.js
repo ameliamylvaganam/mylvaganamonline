@@ -138,7 +138,7 @@ let projects = [
     //   "<img loading='lazy' src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/humdrum5?v=1707525905574' alt='still from Humdrum Ecstasy'>",
     // ],
     embedcode:
-      "<iframe width='560' height='315' src='https://player.vimeo.com/video/1083647259?h=37eb670d73' title='vimeo-player' frameborder='0' referrerpolicy="strict-origin-when-cross-origin" allow='accelerometer; autoplay; clipboard-write; encrypted-media; picture-in-picture' allowfullscreen></iframe>",
+      "<iframe width='560' height='315' src='https://player.vimeo.com/video/1083647259?h=37eb670d73' title='vimeo-player' frameborder='0' referrerpolicy='strict-origin-when-cross-origin' allow='accelerometer; autoplay; clipboard-write; encrypted-media; picture-in-picture' allowfullscreen></iframe>",
   },
   {
     name: "Dreamhotline",
