@@ -26,7 +26,7 @@ let about = [
 let homepg = [
   {
     text: "it is the 5-year anniversary of <a href='https://mylvaganam.online/subpages/journal/' target='_blank'>my journal project</a>.<br><br>it's live and ongoing; take a listen and consider contributing your own clip.<br><br><# Amelia"
-  }]
+  },];
 
 let projects = [
  /* {
@@ -443,9 +443,7 @@ function initMain() {
   //this is what i want on the homepg at opening
   document.getElementById("homepg").innerHTML = document.getElementById("homepg").innerHTML + homepg[0].text;
   //finding link and checking if real, then autoclicking 4 homepage material
-  const link = document.getElementById("homepg");
-   if (link) {
-      link.click();
+  let link = document.getElementById("homepg");
     }
   
   //about content
