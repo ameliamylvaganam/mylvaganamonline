@@ -412,6 +412,7 @@ function imFeelingLucky() {
   //IF length==2 (>1) of urlPieces, then we are currently on a page of sorts and we should check that whatever is generated is Not == current proj username
   //let's loop until we get a good one
   while (samePage) {
+    if (projects.length <= 1) return; //to avoid infinity loop if i only have one project (better be a good one)
     if (urlPieces.length > 1) {
       currProjUser = urlPieces[1];
     }
