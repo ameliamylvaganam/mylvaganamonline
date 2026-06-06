@@ -434,6 +434,11 @@ function imFeelingLucky() {
   projectlink.click();
 }
 
+function initHomePg() {
+  let homepglink = document.getElementById("homepg");
+  homepglink.click();
+}
+
 function initMain() {
   //alert("it is the 5-year anniversary of my journal project (head to PROJECTS > CODE > DEAR JOURNAL). it's live and ongoing; take a listen and consider contributing your own clip.");
   //home greeting
