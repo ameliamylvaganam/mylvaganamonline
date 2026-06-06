@@ -126,7 +126,7 @@ let projects = [
     centeralign:
       "A woman caught in a monotonous life finds moments where reality and dreams blur.",
     leftalign: [
-      "writer/director <b>Haoshu Sascha Deng</b><br>producers <b>Andrew Kline</b> and <b>Sophia Pedro Torres</b><br>cinematography <b>Amelia Mylvaganam</b><br>sound <b>Wes Park</b><br>starring <b>JG Singhal</b> and <b>Eli Han</b><br><br>2K B&W<br>short film<br>2025",
+      "writer/director <b>Haoshu Sascha Deng</b><br>producers <b>Andrew Kline</b> and <b>Sophia Pedro Torres</b><br>cinematography <b>Amelia Mylvaganam</b><br>sound <b>Wes Park</b><br>starring <b>JG Singhal</b> and <b>Eli Han</b><br><br>2K B&W<br>2025<br>14mins",
     ],
     centeragain: "Kansas City Underground Film Festival 2025<br>Midwest Film Festival Roadshow 2025<br>Bronze Age Film Co-Op x Kiosk 2025",
     images: [],
