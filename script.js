@@ -189,7 +189,7 @@ let projects = [
       "<a href='https://www.atlantafilmfestival.com/film-guide-2023' target='_blank'>Atlanta Film Festival 2023</a><br><a href ='https://dailynorthwestern.com/2022/05/24/ae/shelf-life-goes-small-scale-for-the-big-screen-student-produced-film-uses-stop-motion-to-fit-its-set-on-pool-table/' target='_blank'>Daily Northwestern article</a>",
     images: [],
     embedcode:
-      "<video controls controlslist=nodownload><source src='subpages/assets/'woman 3 take 2.mp4'' type='video/mp4' /></video>",
+      "<video controls controlslist=nodownload><source src='subpages/assets/woman 3 take 2.mp4' type='video/mp4' /></video>",
   },
   {
     name: "Pain Motel",
