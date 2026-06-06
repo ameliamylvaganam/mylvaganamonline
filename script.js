@@ -1,6 +1,8 @@
 let greetings = [
   // "<i>RAGE MORE</i>", "great minds", "welcome", "hello",
+  "! RAGE MORE ! RAGE MORE ! RAGE MORE ! RAGE MORE ! RAGE MORE ! RAGE MORE ! RAGE MORE ! RAGE MORE ! RAGE MORE !",
   "☆ WELCOME TO MY OYSTER ☆ WELCOME TO MY OYSTER ☆ WELCOME TO MY OYSTER ☆ WELCOME TO MY OYSTER ☆ WELCOME TO MY OYSTER ☆",
+  ", great minds , great minds , great minds , great minds , great minds , great minds , great minds , great minds , "
 ];
 
 let about = [
