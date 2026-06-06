@@ -424,7 +424,7 @@ function imFeelingLucky() {
 }
 
 function initMain() {
-  alert("it is the 5-year anniversary of <a href='https://mylvaganam.online/subpages/journal/'>my journal project</a>. it's a live project that continue to grow-- check it out and consider contributing your own clip<br><br><# Amelia");
+  alert("it is the 5-year anniversary of my journal project (head to PROJECTS > CODE > DEAR JOURNAL). it's live and ongoing; take a listen and consider contributing your own clip.");
   //home greeting
   document.getElementById("home").innerHTML =
     greetings[Math.floor(Math.random() * greetings.length)];
