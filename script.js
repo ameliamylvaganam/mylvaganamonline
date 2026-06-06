@@ -442,9 +442,6 @@ function initMain() {
 
   //this is what i want on the homepg at opening
   document.getElementById("homepg").innerHTML = document.getElementById("homepg").innerHTML + homepg[0].text;
-  //finding link and checking if real, then autoclicking 4 homepage material
-  let link = document.getElementById("homepg");
-  link.click();
   
   //about content
   document.getElementById("about").innerHTML =
