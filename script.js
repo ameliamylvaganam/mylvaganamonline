@@ -25,7 +25,12 @@ let about = [
 
 let homepg = [
   {
-    text: "it is the 5-year anniversary of <a href='https://mylvaganam.online/subpages/journal/' target='_blank'>my journal project</a>.<br><br>it's live and ongoing; take a listen and consider contributing your own clip.<br><br><# Amelia"
+    text: `it is the 5-year anniversary of
+    <a href='https://mylvaganam.online/subpages/journal/' target='_blank'>my journal project</a>.
+    <br><br>
+    it's live and ongoing; take a listen and consider contributing your own clip.
+    <br><br>
+    &lt;# Amelia`,
   },];
 
 let projects = [
@@ -441,7 +446,7 @@ function initMain() {
 
 
   //this is what i want on the homepg at opening
-  document.getElementById("homepg").innerHTML = document.getElementById("homepg").innerHTML + homepg[0].text;
+  document.getElementById("homepg").innerHTML = homepg[0].text;
   
   //about content
   document.getElementById("about").innerHTML =
