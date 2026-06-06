@@ -25,7 +25,9 @@ let about = [
 
 let homepg = [
   {
-    text: `it's the 5-year anniversary of
+    text: `hey...
+    <br><br>
+    it's the 5-year anniversary of
     <a href='https://mylvaganam.online/subpages/journal/' target='_blank'>my journal project</a>.
     <br><br>
     it's live and ongoing; take a listen and consider contributing your own clip.
