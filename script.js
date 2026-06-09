@@ -49,10 +49,10 @@ let projects = [
     embedcode: "",
   },*/
    {
-    name: "work at the National Gallery of Art",
+    name: "National Gallery of Art",
     username: "nga",
     centeralign:
-      "Below is a selection of the projects I have worked on in the production studio at the National Gallery of Art.",
+      "Here are a few of the projects I have worked on in the production studio at the National Gallery of Art.",
     leftalign: [
       `<b>Longform Video Credits</b><br><a href='https://youtu.be/6Y8kLUh-vVE' target='_blank'>What do kids really think about art?</a> (Videography & Asst. Production Coordination)
       <br><iframe width="560" height="315" src="https://www.youtube.com/embed/6Y8kLUh-vVE?si=3tI3ldzpZ6C_7M6v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -60,8 +60,7 @@ let projects = [
       <br><iframe width="560" height="315" src="https://www.youtube.com/embed/1D3mVVwqkX0?si=hFjOrqtckOE4GWD9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
       
       <br><a href='https://youtu.be/qhWf01YBvZ0' target='_blank'>The Creative Power of Devotion</a> (Videography & Asst. Production Coordination)
-      <br><iframe width="560" height="315" src="https://www.youtube.com/embed/qhWf01YBvZ0?si=kIcsiePzE6-vX6UV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-      <br><a href='https://youtu.be/oJCIr1rjBJU?si=FajJQriLK1DyUB2U' target='_blank'>See a Master Printmaker Create a Stunning Elizabeth Catlett Inspired Woodblock Print, Step-by-Step</a> (Videography & Asst. Production Coordination)/a>`,
+      <br><iframe width="560" height="315" src="https://www.youtube.com/embed/qhWf01YBvZ0?si=kIcsiePzE6-vX6UV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>`,
       
       `<b>Shortform Social Credits</b>
       <br><a href='https://www.instagram.com/reel/DPKgiRtDbBZ/' target='_blank'>Shields/Escudos, Miguel Luciano</a> (Cinematography & Editing)
@@ -488,11 +487,11 @@ function initMain() {
   for (let i = 0; i < projects.length; i++) {
     let newline = "";
 
-    if (i == 0) {
+    if (i == 1) {
       document.getElementById("projects").innerHTML =
-      document.getElementById("projects").innerHTML + "<section class='titles'>SOME OF MY...</section><br>";}
+      document.getElementById("projects").innerHTML + "<br><section class='titles'>SOME OF MY...</section><br>";}
     else if (i == 1) {
-      newline = "<br><section class='titles'>FILMS</section>";
+      newline = "<section class='titles'>FILMS</section>";
     } 
     else if (i == 7) {
       newline = "<br><section class='titles'>CINEMATOGRAPHY</section>";
