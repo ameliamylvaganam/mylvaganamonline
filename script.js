@@ -470,13 +470,12 @@ function initMain() {
   for (let i = 0; i < projects.length; i++) {
     let newline = "";
     
-    if (i == 0) {
-      newline =
+    if (i == 1) {
+      document.getElementById("projects").innerHTML =
+      document.getElementById("projects").innerHTML + "<section class='titles'>SOME OF MY...</section>";}
+    newline =
         "<br><section class='titles'>FILMS</section>";
     } 
-      else if (i == 1){
-        document.getElementById("projects").innerHTML =
-      document.getElementById("projects").innerHTML + "<section class='titles'>SOME OF MY...</section>";}
     else if (i == 7) {
       newline = "<br><section class='titles'>CINEMATOGRAPHY</section>";
     } else if (i == 11) {
