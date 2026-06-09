@@ -56,10 +56,10 @@ let projects = [
     leftalign: [
       `<b>Longform Video Credits</b><br><a href='https://youtu.be/6Y8kLUh-vVE' target='_blank'>What do kids really think about art?</a> (Videography & Asst. Production Coordination)
       <br><iframe width="560" height="315" src="https://www.youtube.com/embed/6Y8kLUh-vVE?si=3tI3ldzpZ6C_7M6v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-      <br><a href='https://youtu.be/1D3mVVwqkX0' target='_blank'>Can this printmaker live up to her idol?</a> (Videography & Asst. Production Coordination)
+      <br><br><a href='https://youtu.be/1D3mVVwqkX0' target='_blank'>Can this printmaker live up to her idol?</a> (Videography & Asst. Production Coordination)
       <br><iframe width="560" height="315" src="https://www.youtube.com/embed/1D3mVVwqkX0?si=hFjOrqtckOE4GWD9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
       
-      <br><a href='https://youtu.be/qhWf01YBvZ0' target='_blank'>The Creative Power of Devotion</a> (Videography & Asst. Production Coordination)
+      <br><br><a href='https://youtu.be/qhWf01YBvZ0' target='_blank'>The Creative Power of Devotion</a> (Videography & Asst. Production Coordination)
       <br><iframe width="560" height="315" src="https://www.youtube.com/embed/qhWf01YBvZ0?si=kIcsiePzE6-vX6UV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>`,
       
       `<b>Shortform Social Credits</b>
