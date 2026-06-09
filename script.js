@@ -48,6 +48,23 @@ let projects = [
     images: [],
     embedcode: "",
   },*/
+   {
+    name: "National Gallery of Art",
+    username: "nga",
+    centeralign:
+      "Below is a selection of the projects I have worked on in the production studio at the National Gallery of Art.",
+    leftalign: [
+      "<b>Longform Video Credits</b><br><a href='https://youtu.be/6Y8kLUh-vVE' target='_blank'>What Do Kids REALLY Think About Art?</a> (Videography & Asst. Production Coordination)<br><a href='https://youtu.be/1D3mVVwqkX0' target='_blank'>Master Printmaker Honors Elizabeth Catlett with a Powerful Portrait</a> (Videography & Asst. Production Coordination)<br><a href='https://youtu.be/qhWf01YBvZ0' target='_blank'>The Creative Power of Devotion</a> (Videography & Asst. Production Coordination)<br><a href='https://youtu.be/oJCIr1rjBJU?si=FajJQriLK1DyUB2U' target='_blank'>See a Master Printmaker Create a Stunning Elizabeth Catlett Inspired Woodblock Print, Step-by-Step</a> (Videography & Asst. Production Coordination)<br><a href='https://www.youtube.com/watch?v=q2otlX_c80M&t=1s' target='_blank'>What happens if two complete strangers draw each other?</a> (Boom Operation & Asst. Production Coordination)<br><a href='https://www.youtube.com/watch?v=cOytQ-RzkfY' target='_blank'>Artist Jaune Quick-to-See Smith Takes on Pop Art</a> (Asst. Production Coordination)<br><a href='https://www.youtube.com/watch?v=9TXFD0sX9VQ' target='_blank'>Inside the Corcoran’s Incredible Art Collection</a> (Asst. Production Coordination)",
+      "<b>Shortform Social Credits</b><br><a href='https://www.instagram.com/reel/DPKgiRtDbBZ/' target='_blank'>Shields/Escudos, Miguel Luciano</a> (Cinematography & Editing)<br><a href='https://www.instagram.com/p/DNN4TqbA5c0/' target='_blank'>Movement, monuments</a> (Cinematography)<br><a href='https://www.instagram.com/reel/DGy6-cWAtrz/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==' target='_blank'>John Jennings reimagines Watson and the Shark</a> (Editing)<br><a href='https://www.instagram.com/reel/C1DUnGaPb4V/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA%3D%3D' target='_blank'>Team USA ice skating</a> (Cinematography & Editing)<br><a href='https://www.instagram.com/reel/C6joWwEPmjh/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==' target='_blank'>Frau Fiber</a> (Cinematography & Editing)<br><a href='https://www.instagram.com/reel/C_i_S6BPuR_/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==' target='_blank'>Paris 1874 teaser</a> (Cinematography)<br>",
+    ],
+    centeragain: "",
+    images: [
+      "<img loading='lazy' src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/iceskating.gif?v=1718341838888' alt='gif of National Gallery of Art ice skating Instagram Reel'/>",
+      "<img loading='lazy' src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/fraufiber.gif?v=1718342851258' alt='gif of National Gallery of Art Frau Fiber Instagram Reel'/>",
+      
+    ],
+    embedcode: "",
+  },
   {
     name: "Hands",
     username: "hands",
@@ -334,23 +351,7 @@ let projects = [
     ],
     embedcode: "",
   },
-  {
-    name: "National Gallery of Art",
-    username: "nga",
-    centeralign:
-      "Below is a selection of the projects I have worked on in the production studio at the National Gallery of Art.",
-    leftalign: [
-      "<b>Longform Video Credits</b><br><a href='https://youtu.be/6Y8kLUh-vVE' target='_blank'>What Do Kids REALLY Think About Art?</a> (Videography & Asst. Production Coordination)<br><a href='https://youtu.be/1D3mVVwqkX0' target='_blank'>Master Printmaker Honors Elizabeth Catlett with a Powerful Portrait</a> (Videography & Asst. Production Coordination)<br><a href='https://youtu.be/qhWf01YBvZ0' target='_blank'>The Creative Power of Devotion</a> (Videography & Asst. Production Coordination)<br><a href='https://youtu.be/oJCIr1rjBJU?si=FajJQriLK1DyUB2U' target='_blank'>See a Master Printmaker Create a Stunning Elizabeth Catlett Inspired Woodblock Print, Step-by-Step</a> (Videography & Asst. Production Coordination)<br><a href='https://www.youtube.com/watch?v=q2otlX_c80M&t=1s' target='_blank'>What happens if two complete strangers draw each other?</a> (Boom Operation & Asst. Production Coordination)<br><a href='https://www.youtube.com/watch?v=cOytQ-RzkfY' target='_blank'>Artist Jaune Quick-to-See Smith Takes on Pop Art</a> (Asst. Production Coordination)<br><a href='https://www.youtube.com/watch?v=9TXFD0sX9VQ' target='_blank'>Inside the Corcoran’s Incredible Art Collection</a> (Asst. Production Coordination)",
-      "<b>Shortform Social Credits</b><br><a href='https://www.instagram.com/reel/DPKgiRtDbBZ/' target='_blank'>Shields/Escudos, Miguel Luciano</a> (Cinematography & Editing)<br><a href='https://www.instagram.com/p/DNN4TqbA5c0/' target='_blank'>Movement, monuments</a> (Cinematography)<br><a href='https://www.instagram.com/reel/DGy6-cWAtrz/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==' target='_blank'>John Jennings reimagines Watson and the Shark</a> (Editing)<br><a href='https://www.instagram.com/reel/C1DUnGaPb4V/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA%3D%3D' target='_blank'>Team USA ice skating</a> (Cinematography & Editing)<br><a href='https://www.instagram.com/reel/C6joWwEPmjh/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==' target='_blank'>Frau Fiber</a> (Cinematography & Editing)<br><a href='https://www.instagram.com/reel/C_i_S6BPuR_/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==' target='_blank'>Paris 1874 teaser</a> (Cinematography)<br>",
-    ],
-    centeragain: "",
-    images: [
-      "<img loading='lazy' src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/iceskating.gif?v=1718341838888' alt='gif of National Gallery of Art ice skating Instagram Reel'/>",
-      "<img loading='lazy' src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/fraufiber.gif?v=1718342851258' alt='gif of National Gallery of Art Frau Fiber Instagram Reel'/>",
-      
-    ],
-    embedcode: "",
-  },
+ 
 //   {
 //     name: "for Tatter",
 //     username: "tatter",
@@ -465,19 +466,22 @@ function initMain() {
     about[0].footer;
 
   //project list content
-  document.getElementById("projects").innerHTML =
-      document.getElementById("projects").innerHTML + "<section class='titles'>SOME OF MY...</section>";
+  
   for (let i = 0; i < projects.length; i++) {
-    if (i == 15 || i==14){continue} // skipping loop to avoid nga and tatter in the list
     let newline = "";
+    
     if (i == 0) {
       newline =
         "<br><section class='titles'>FILMS</section>";
-    } else if (i == 6) {
+    } 
+      else if (i == 1){
+        document.getElementById("projects").innerHTML =
+      document.getElementById("projects").innerHTML + "<section class='titles'>SOME OF MY...</section>";}
+    else if (i == 7) {
       newline = "<br><section class='titles'>CINEMATOGRAPHY</section>";
-    } else if (i == 10) {
+    } else if (i == 11) {
       newline = "<br><section class='titles'>PHOTO/WRITING</section>";
-    } else if (i == 12) {
+    } else if (i == 13) {
       newline = "<br><section class='titles'>CODE </section>";
     }
     // if (i==0){
