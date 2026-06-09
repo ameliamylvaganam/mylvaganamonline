@@ -469,8 +469,10 @@ function initMain() {
   
   for (let i = 0; i < projects.length; i++) {
     let newline = "";
-    
-    if (i == 1) {
+
+    if (i == 0) {newline =
+        "<br>";}
+    else if (i == 1) {
       document.getElementById("projects").innerHTML =
       document.getElementById("projects").innerHTML + "<section class='titles'>SOME OF MY...</section>";
     newline =
