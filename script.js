@@ -472,7 +472,7 @@ function initMain() {
     
     if (i == 1) {
       document.getElementById("projects").innerHTML =
-      document.getElementById("projects").innerHTML + "<section class='titles'>SOME OF MY...</section>";}
+      document.getElementById("projects").innerHTML + "<section class='titles'>SOME OF MY...</section>";
     newline =
         "<br><section class='titles'>FILMS</section>";
     } 
