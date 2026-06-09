@@ -482,8 +482,7 @@ function initMain() {
 
     if (i == 1) {
       document.getElementById("projects").innerHTML =
-      document.getElementById("projects").innerHTML + "<br><section class='titles'>SOME OF MY...</section><br>";}
-    else if (i == 1) {
+      document.getElementById("projects").innerHTML + "<br><section class='titles'>SOME OF MY...</section><br>";
       newline = "<section class='titles'>FILMS</section>";
     } 
     else if (i == 7) {
