@@ -49,7 +49,7 @@ let projects = [
     embedcode: "",
   },*/
    {
-    name: "National Gallery of Art",
+    name: "work at the National Gallery of Art",
     username: "nga",
     centeralign:
       "Below is a selection of the projects I have worked on in the production studio at the National Gallery of Art.",
@@ -488,11 +488,11 @@ function initMain() {
   for (let i = 0; i < projects.length; i++) {
     let newline = "";
 
-    if (i == 1) {
+    if (i == 0) {
       document.getElementById("projects").innerHTML =
-      document.getElementById("projects").innerHTML + "<br><section class='titles'>SOME OF MY...</section>";
-    newline =
-        "<br><section class='titles'>FILMS</section>";
+      document.getElementById("projects").innerHTML + "<section class='titles'>SOME OF MY...</section>";}
+    else if (i == 1) {
+      newline = "<br><section class='titles'>FILMS</section>";
     } 
     else if (i == 7) {
       newline = "<br><section class='titles'>CINEMATOGRAPHY</section>";
