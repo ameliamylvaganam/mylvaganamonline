@@ -490,7 +490,7 @@ function initMain() {
 
     if (i == 0) {
       document.getElementById("projects").innerHTML =
-      document.getElementById("projects").innerHTML + "<section class='titles'>SOME OF MY...</section>";}
+      document.getElementById("projects").innerHTML + "<section class='titles'>SOME OF MY...</section><br>";}
     else if (i == 1) {
       newline = "<br><section class='titles'>FILMS</section>";
     } 
