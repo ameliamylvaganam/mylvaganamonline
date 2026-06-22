@@ -354,6 +354,12 @@ myarray = [
       "library/58.mp3",
     color: "#9edfff",
   },
+  {
+    name: "59.mp3",
+    audio:
+      "library/59.mp3",
+    color: "#ff8400",
+  },
 ];
 
 function newcolor() {
