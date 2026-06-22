@@ -48,34 +48,47 @@ let projects = [
     images: [],
     embedcode: "",
   },*/
-   {
-    name: "National Gallery of Art",
-    username: "nga",
+  //  {
+  //   name: "National Gallery of Art",
+  //   username: "nga",
+  //   centeralign:
+  //     "Here are a few of the projects I have worked on in the production studio at the National Gallery of Art.",
+  //   leftalign: [
+  //     `<b>Longform Video Credits</b><br><a href='https://youtu.be/6Y8kLUh-vVE' target='_blank'>What do kids really think about art?</a> (Videography & Asst. Production Coordination)
+  //     <br><iframe width="560" height="315" src="https://www.youtube.com/embed/6Y8kLUh-vVE?si=3tI3ldzpZ6C_7M6v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  //     <br><br><a href='https://youtu.be/1D3mVVwqkX0' target='_blank'>Can this printmaker live up to her idol?</a> (Videography & Asst. Production Coordination)
+  //     <br><iframe width="560" height="315" src="https://www.youtube.com/embed/1D3mVVwqkX0?si=hFjOrqtckOE4GWD9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      
+  //     <br><br><a href='https://youtu.be/qhWf01YBvZ0' target='_blank'>The Creative Power of Devotion</a> (Videography & Asst. Production Coordination)
+  //     <br><iframe width="560" height="315" src="https://www.youtube.com/embed/qhWf01YBvZ0?si=kIcsiePzE6-vX6UV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>`,
+      
+  //     `<b>Shortform Social Credits</b>
+  //     <br><a href='https://www.instagram.com/reel/DPKgiRtDbBZ/' target='_blank'>Shields/Escudos, Miguel Luciano</a> (Cinematography & Editing)
+  //     <br><a href='https://www.instagram.com/reel/DGy6-cWAtrz/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==' target='_blank'>John Jennings reimagines Watson and the Shark</a> (Editing)
+  //     `,
+  //   ],
+  //   centeragain: "",
+  //   images: [
+  //   //   "<img loading='lazy' src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/iceskating.gif?v=1718341838888' alt='gif of National Gallery of Art ice skating Instagram Reel'/>",
+  //   //   "<img loading='lazy' src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/fraufiber.gif?v=1718342851258' alt='gif of National Gallery of Art Frau Fiber Instagram Reel'/>",
+      
+  //   ],
+  //   embedcode: "",
+  // },
+  {
+    name: "Rocks",
+    username: "rocks",
     centeralign:
-      "Here are a few of the projects I have worked on in the production studio at the National Gallery of Art.",
+      `At a cliff's edge, two rocks discuss the lives they left behind.`,
     leftalign: [
-      `<b>Longform Video Credits</b><br><a href='https://youtu.be/6Y8kLUh-vVE' target='_blank'>What do kids really think about art?</a> (Videography & Asst. Production Coordination)
-      <br><iframe width="560" height="315" src="https://www.youtube.com/embed/6Y8kLUh-vVE?si=3tI3ldzpZ6C_7M6v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-      <br><br><a href='https://youtu.be/1D3mVVwqkX0' target='_blank'>Can this printmaker live up to her idol?</a> (Videography & Asst. Production Coordination)
-      <br><iframe width="560" height="315" src="https://www.youtube.com/embed/1D3mVVwqkX0?si=hFjOrqtckOE4GWD9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-      
-      <br><br><a href='https://youtu.be/qhWf01YBvZ0' target='_blank'>The Creative Power of Devotion</a> (Videography & Asst. Production Coordination)
-      <br><iframe width="560" height="315" src="https://www.youtube.com/embed/qhWf01YBvZ0?si=kIcsiePzE6-vX6UV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>`,
-      
-      `<b>Shortform Social Credits</b>
-      <br><a href='https://www.instagram.com/reel/DPKgiRtDbBZ/' target='_blank'>Shields/Escudos, Miguel Luciano</a> (Cinematography & Editing)
-      <br><a href='https://www.instagram.com/reel/DGy6-cWAtrz/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==' target='_blank'>John Jennings reimagines Watson and the Shark</a> (Editing)
-      `,
+      `writing/directing <b>Amelia Mylvaganam</b><br>featuring Le sommet du monde by <b>Hunter Gawande</b><br><br>miniDV<br>2026<br>8mins`,
     ],
     centeragain: "",
-    images: [
-    //   "<img loading='lazy' src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/iceskating.gif?v=1718341838888' alt='gif of National Gallery of Art ice skating Instagram Reel'/>",
-    //   "<img loading='lazy' src='https://cdn.glitch.global/b63ee8f9-5e85-40c3-a1e3-1ca53d7532ee/fraufiber.gif?v=1718342851258' alt='gif of National Gallery of Art Frau Fiber Instagram Reel'/>",
-      
-    ],
-    embedcode: "",
-  },
-  {
+    images: [],
+    // embedcode: `<iframe width="560" height="315" src="https://www.youtube.com/embed/yhyp0RA0bR4?si=NnVUW8DfxDgtoXaz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>`,
+    leftagain: "",
+    /*embedcode: "<iframe width='560' height='315' src='https://www.youtube.com/embed/FMvfHjnn70Y?si=WQ73J_ppZuBr_kP8' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>",*/
+  },{
     name: "Hands",
     username: "hands",
     centeralign:
@@ -480,7 +493,7 @@ function initMain() {
   for (let i = 0; i < projects.length; i++) {
     let newline = "";
 
-    if (i == 1) {
+    if (i == 0) {
       document.getElementById("projects").innerHTML =
       document.getElementById("projects").innerHTML + "<br><section class='titles'>SOME OF MY...</section><br>";
       newline = "<section class='titles'>FILMS</section>";
