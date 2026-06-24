@@ -81,7 +81,7 @@ let projects = [
     centeralign:
       `At a cliff's edge, two rocks discuss the lives they left behind.`,
     leftalign: [
-      `by <b>Amelia Mylvaganam</b><br>featuring Le sommet du monde by <b>Hunter Gawande</b><br><br>miniDV<br>2026<br>8mins`,
+      `by <b>Amelia Mylvaganam</b><br>featuring "Le sommet du monde" by <b>Hunter Gawande</b><br><br>miniDV<br>2026<br>8mins`,
     ],
     centeragain: "",
     images: [],
