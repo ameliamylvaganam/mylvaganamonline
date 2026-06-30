@@ -386,10 +386,10 @@ let projects = [
     <br>
     -Did you have any dreams?
     <br><br>
-    -If I did I cant remember them
+    -If i did i cant remember them
     <br>-You?
     <br><br>
-    -No I dont think so
+    -No i dont think so
 `,
     images: [],
     embedcode: "",
