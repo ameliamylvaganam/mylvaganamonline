@@ -380,12 +380,10 @@ let projects = [
     centeralign:
       `Below is a still from a clip that I have already shot, as well as a dialogue snippet, both pieces that prompted this project. I am also embedding <i>Rocks</i> and <i>Chico Baby</i>, recent works that feel tonally and structurally relevant to this proposal. Other films can be found via the PROJECTS tab.`,
     leftalign: [
-      ``,
+      ``
     ],
-    centeragain: "<img loading='lazy' src='subpages/assets/ss2.gif' alt='gif of sun/moon switch in petuliabythekooks.glitch.me'>
-      test",
-    images: [
-    ],
+    centeragain: `<img loading='lazy' src='subpages/assets/ss2.gif' alt='gif of sun/moon switch in petuliabythekooks.glitch.me'><br>test`,
+    images: [],
     embedcode: "",
   },
  
