@@ -115,7 +115,11 @@ marquee {
   margin: 0.5%;
 }
   
-
+.longdriveclass img{
+  width: 25%;
+  height: auto;
+  margin: 0.5%;
+}
 .ngaclass img{
   width: 25%;
   height: auto;
