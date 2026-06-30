@@ -230,7 +230,7 @@ let projects = [
     centeralign:
       "A woman finds a mysterious video discussing the female eating habits of a dystopian society.",
     leftalign: [
-      "writer/director <b>Erin Zhang</b><br>producers <b>Tanisha Tekriwal</b> and <b>Sofia Veraza</b><br>cinematography <b>Amelia Mylvaganam</b> and <b>Haoshu Sascha Deng</b>, gaffer <b>Tej Narayanan</b><br><br>4K color, stopmotion<br>short film<br>2022",
+      `writer/director <b>Erin Zhang</b><br>producers <b>Tanisha Tekriwal</b> and <b>Sofia Veraza</b><br>cinematography <b>Amelia Mylvaganam</b> and <b>Haoshu Sascha Deng</b>, gaffer <b>Tej Narayanan</b><br><br>4K color, stopmotion<br>short film<br>2022`,
     ],
     centeragain:
       "<a href='https://www.atlantafilmfestival.com/film-guide-2023' target='_blank'>Atlanta Film Festival 2023</a><br><a href ='https://dailynorthwestern.com/2022/05/24/ae/shelf-life-goes-small-scale-for-the-big-screen-student-produced-film-uses-stop-motion-to-fit-its-set-on-pool-table/' target='_blank'>Daily Northwestern article</a>",
@@ -242,7 +242,7 @@ let projects = [
     name: "Pain Motel",
     username: "painmotel",
     centeralign:
-      "When two siblings find themselves trapped in a strange motel, they are forced to reconsider and repair their relationship.",
+      `When two siblings find themselves trapped in a strange motel, they are forced to reconsider and repair their relationship.`,
     leftalign: [
       "writer/director <b>Tanisha Tekriwal</b><br>producers <b>Eli Han</b> and <b>Caroline Bates</b><br>cinematography <b>Amelia Mylvaganam</b>, gaffer <b>Xanthe Brown</b><br>starring <b>Mantra Radhakrishnan</b> and <b>Mirrat</b><br><br>2K color<br>short film<br>2022",
     ],
@@ -371,6 +371,20 @@ let projects = [
       "<img loading='lazy' src='subpages/assets/ss1.gif' alt='gif of scrolling through midland.glitch.me'>",
       "<img loading='lazy' src='subpages/assets/ss4.gif' alt='gif of scrolling through types.glitch.me'>",
       "<img loading='lazy' src='subpages/assets/ss3.gif' alt='gif of clicking through sammysunday.glitch.me'>",
+    ],
+    embedcode: "",
+  },
+  {
+    name: "Rhizome Microgrant Work Sample",
+    username: "rhizome",
+    centeralign:
+      `Below is a still from a clip that I have already shot, as well as a dialogue snippet, both pieces that prompted this project. I am also embedding <i>Rocks</i> and <i>Chico Baby</i>, recent works that feel tonally and structurally relevant to this proposal. Other films can be found via the PROJECTS tab.`,
+    leftalign: [
+      ``,
+    ],
+    centeragain: "<img loading='lazy' src='subpages/assets/ss2.gif' alt='gif of sun/moon switch in petuliabythekooks.glitch.me'>
+      test",
+    images: [
     ],
     embedcode: "",
   },
@@ -505,14 +519,15 @@ function initMain() {
     } else if (i == 13) {
       newline = "<br><section class='titles'>CODE </section>";
     }
-    // if (i==0){
-    //   newline =
-    //   newline +
-    //   "<a href=nga.html target='_blank'>National Gallery of Art</a><br>";
-    // document.getElementById("projects").innerHTML =
-    //   document.getElementById("projects").innerHTML + newline;
-    // }
-    // else{
+
+    if (i==15){
+      // newline =
+      // newline +
+      // "";
+    document.getElementById("projects").innerHTML =
+      document.getElementById("projects").innerHTML + newline;
+    }
+    else{
     newline =
       newline +
       "<a href=#" +
@@ -524,7 +539,7 @@ function initMain() {
       "</a><br>";
     document.getElementById("projects").innerHTML =
       document.getElementById("projects").innerHTML + newline;
-    // }
+    }
   }
 
   //initiating individual project content
