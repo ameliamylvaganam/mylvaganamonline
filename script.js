@@ -382,9 +382,9 @@ let projects = [
     leftalign: [
       `Below are stills from a few clips that I shot near Germantown, MD, in Potomac, MD, and in Spring Valley, DC, as well as a dialogue snippet, all pieces that prompted this project. I am also embedding <i>Rocks</i> and <i>Chico Baby</i> on this page, recent works that feel tonally and structurally relevant to this proposal. Additional previous films can be found via the PROJECTS tab.`
     ],
-    centeragain: `<br><img class='longdriveclass' loading='lazy' src='subpages/assets/longdrivestill.jpg' alt="still from footage for A Long Drive Where You’re Looking Straight Ahead and I’m Looking Right At You">
-    <img class='longdriveclass' loading='lazy' src='subpages/assets/longdrivestill2.jpg' alt="still from footage for A Long Drive Where You’re Looking Straight Ahead and I’m Looking Right At You">
-    <img class='longdriveclass' loading='lazy' src='subpages/assets/longdrivestill3.jpg' alt="still from footage for A Long Drive Where You’re Looking Straight Ahead and I’m Looking Right At You"><br>
+    centeragain: `<br><img loading='lazy' src='subpages/assets/longdrivestill.jpg' alt="still from footage for A Long Drive Where You’re Looking Straight Ahead and I’m Looking Right At You">
+    <img loading='lazy' src='subpages/assets/longdrivestill2.jpg' alt="still from footage for A Long Drive Where You’re Looking Straight Ahead and I’m Looking Right At You">
+    <img loading='lazy' src='subpages/assets/longdrivestill3.jpg' alt="still from footage for A Long Drive Where You’re Looking Straight Ahead and I’m Looking Right At You"><br>
     <br>
     -Did you have any dreams?
     <br><br>
