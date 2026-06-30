@@ -378,11 +378,18 @@ let projects = [
     name: "Rhizome Microgrant Work Sample",
     username: "rhizome",
     centeralign:
-      `Below is a still from a clip that I have already shot, as well as a dialogue snippet, both pieces that prompted this project. I am also embedding <i>Rocks</i> and <i>Chico Baby</i>, recent works that feel tonally and structurally relevant to this proposal. Other films can be found via the PROJECTS tab.`,
+      ``,
     leftalign: [
-      ``
+      `elow is a still from a clip that I have already shot, as well as a dialogue snippet, both pieces that prompted this project. I am also embedding <i>Rocks</i> and <i>Chico Baby</i>, recent works that feel tonally and structurally relevant to this proposal. Other films can be found via the PROJECTS tab.`
     ],
-    centeragain: `<img loading='lazy' src='subpages/assets/ss2.gif' alt='gif of sun/moon switch in petuliabythekooks.glitch.me'><br>test`,
+    centeragain: `<img loading='lazy' src='subpages/assets/longdrive.png' alt="still from footage for A Long Drive Where You’re Looking Straight Ahead and I’m Looking Right At You"><br>
+    Did you have any dreams?
+    <br><br>
+    If I did I cant remember them
+    <br>You?
+    <br><br>
+    No I dont think so
+`,
     images: [],
     embedcode: "",
   },
